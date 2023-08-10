@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What we need for the house and how it breaks down.md",
+                "file": "Daily_Notes/230810 Th.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "What we need for the house and how it breaks down.md",
+            "file": "Daily_Notes/230810 Th.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "What we need for the house and how it breaks down.md",
+            "file": "Daily_Notes/230810 Th.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "What we need for the house and how it breaks down.md"
+            "file": "Daily_Notes/230810 Th.md"
           }
         }
       }
@@ -142,6 +142,7 @@
   },
   "active": "82b095b37b37ee14",
   "lastOpenFiles": [
+    "this is a test.md",
     "Daily_Notes/230810 Th.md",
     "What we need for the house and how it breaks down.md",
     "Daily_Notes/230809 We.md",

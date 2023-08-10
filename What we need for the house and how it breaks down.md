@@ -9,4 +9,3 @@ What we need for the house and how it breaks down
 House on main st sold for 488000
 
 How does the process work? What are the savings compared to normal sell?
-
