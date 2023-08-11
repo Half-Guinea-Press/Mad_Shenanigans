@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230810 Th.md",
+                "file": "Daily_Notes/230811 Fr.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230810 Th.md",
+            "file": "Daily_Notes/230811 Fr.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230810 Th.md",
+            "file": "Daily_Notes/230811 Fr.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230810 Th.md"
+            "file": "Daily_Notes/230811 Fr.md"
           }
         }
       }
@@ -142,8 +142,9 @@
   },
   "active": "82b095b37b37ee14",
   "lastOpenFiles": [
-    "this is a test.md",
     "Daily_Notes/230810 Th.md",
+    "Daily_Notes/230811 Fr.md",
+    "this is a test.md",
     "What we need for the house and how it breaks down.md",
     "Daily_Notes/230809 We.md",
     "Start.md"
