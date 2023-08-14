@@ -4,9 +4,9 @@
 ####  Are the laws of nature and physics actually different in this world, or are they the same as in real life? 
 ####  How does magic fit in? 
 ####  How do magical beasts fit in?
-####  Is this generally an earth#### like world? 
+####  Is this generally an earth. like world? 
 ####  Is it an “alternate Earth”?
-####  Are there different human races, whether or not there are non#### humans like elves or dwarves? 
+####  Are there different human races, whether or not there are non- humans like elves or dwarves? 
 ####  How does the cultural and ethnic diversity of this world compare to the real world?
 ####  How long have there been people on this world? 
 ####  Did they evolve, or did they migrate from somewhere/when else?
@@ -15,10 +15,10 @@
 ####  What is considered a small town/large town/city in terms of number of people?
 ####  Where does magic power come from: the gods, the “mana” of the world (as in Larry Niven’s “Warlock” stories), the personal willpower or life force of the magician, somewhere else? 
 ####  Is magic an exhaustible resource? 
-####  If a magician must feed his spells with his own willpower, life#### force, or sanity, what long#### term effects will this have on the health and/or stability of the magician? 
+####  If a magician must feed his spells with his own willpower, life- force, or sanity, what long- term effects will this have on the health and/or stability of the magician? 
 ####  Do different races/species have different sources for their magic, or does everybody use the same one?
 ### Alternate Earth
-####  Are there non#### human inhabitants of this planet (elves, dwarves, aliens)? 
+####  Are there non-human inhabitants of this planet (elves, dwarves, aliens)? 
 ####  If so, how numerous? 
 ####  How openly present? 
 ####  What areas do they occupy (examples: dwarves in mountains or caves, elves in forests, etc.)?
@@ -44,7 +44,7 @@
 ####  Is it the same size (same density, same gravity), same ratio of land/water, same atmosphere, etc.? 
 ####  Does it have more than one sun or moon? Rings? 
 ####  Are there spectacular constellations/comets, etc. visible at night or by day?
-####  Are there non#### human inhabitants of this planet (elves, dwarves, aliens)? 
+####  Are there non-human inhabitants of this planet (elves, dwarves, aliens)? 
 ####  If so, how numerous? 
 ####  How openly present? 
 ####  What areas do they occupy?
@@ -59,14 +59,14 @@
 ####  How much ground will the story cover? 
 ####  What are the most striking features of landscape, climate, animals, etc. in this area? 
 ####  How will these features affect travel time, communication, etc.?
-####  If there are non#### human inhabitants, are there any areas they particularly claim as their own (e.g., dwarves traditionally live underground, usually in mountains)?
+####  If there are non- human inhabitants, are there any areas they particularly claim as their own (e.g., dwarves traditionally live underground, usually in mountains)?
 ### Climate and Geography
 ####  Have human activities affected climate, landscape, etc. in various regions? 
-####  How? (Example: Sahara Desert growth has been increased by over#### farming.) 
+####  How? (Example: Sahara Desert growth has been increased by over- farming.) 
 ####  If this is an alternate earth, will the “alternate” part change existing effects? (If there are no people in N. Africa, desert growth is probably slower.)
 ####  How do differences from Earth (multiple suns, moons, etc.) affect the climate in various areas?
 ####  How much land is in each of the equatorial, temperate, and polar zones?
- | ####  Note: climate affects landscape through erosion and weathering; the distribution of plants and animals, and formation of soil. As a result, it determines what crops can and can’t be grown, what animals can and can’t live in an area, what clothes must be worn to cope with the weather, and how houses are built. Winter freezing and thawing may change travel patterns, as waterways freeze or flood and passes close. Weather also affects available sports, like skiing. Are all these things consistent with what you say the climate is like in particular areas?
+ |   Note: climate affects landscape through erosion and weathering; the distribution of plants and animals, and formation of soil. As a result, it determines what crops can and can’t be grown, what animals can and can’t live in an area, what clothes must be worn to cope with the weather, and how houses are built. Winter freezing and thawing may change travel patterns, as waterways freeze or flood and passes close. Weather also affects available sports, like skiing. Are all these things consistent with what you say the climate is like in particular areas?
 ####  Where are major mountain ranges? 
 ####  Rivers and lakes? 
 ####  Deserts? 
@@ -94,13 +94,13 @@
 ####  Do average people believe old tales, or do they dismiss some that have a basis in fact (e.g., Troy)?
 ####  How long have there been people on this world? 
 ####  Did they evolve, were they created by the gods, or did they migrate from somewhere else? 
-####  If there are non#### humans, how long have they been around and where did they come from?
+####  If there are non- humans, how long have they been around and where did they come from?
 ####  How similar is the history and culture of an alternate earth to real history and culture? 
 ####  Why is it similar/different?
 ####  Where did civilization begin? 
 ####  What directions did it spread? 
 ####  How was its development affected by the presence of magic? 
-####  The presence of non#### human races, if any? 
+####  The presence of non- human races, if any? 
 ####  The actions or direct interventions of the gods?
 ####  Which peoples/countries/races have traditionally fought, allied, traded, or been rivals? 
 ####  Where are there still hard feelings about old events?
@@ -136,7 +136,7 @@
 ####  How many people are there in this country? 
 ####  How does this compare with world population? 
 ####  What is considered a small town/large town/city in terms of number of people?
-####  How diverse is the population of this country — how many different races (human or non#### human), creeds, etc. normally live in various cities and towns in this country? 
+####  How diverse is the population of this country — how many different races (human or non- human), creeds, etc. normally live in various cities and towns in this country? 
 ####  In what percentages?
 ####  Is population shifting from rural to urban, south to north, mountains to coast, etc.? 
 ####  Why — invasion, plague, gold rush, etc.? 
@@ -170,7 +170,7 @@
 ####  Which animals, actual or imaginary, are commonly domesticated in this area? 
 ####  Which aren’t here, but are elsewhere? (Example: water buffalo in India vs. oxen in Europe vs. camels in desert areas.)
 ####  How do most of the citizens make their living — farming, fishing, trade, manufacturing? 
-####  Do non#### humans tend to take up different trades from humans? 
+####  Do non- humans tend to take up different trades from humans? 
 ####  Are they legally limited to certain trades?
 ## Magic and Magicians
 ### Rules of Magic
@@ -183,7 +183,7 @@
 ####  If so, how are they distinguished?
 ####  Where does magic power come from: the gods, the “mana” of the world, the personal willpower of the magician? 
 ####  Is magic an exhaustible resource? 
-####  If a magician must feed his spells with his own willpower, life#### force, or sanity, what long#### term effects will this have on the health and/or stability of the magician? 
+####  If a magician must feed his spells with his own willpower, life- force, or sanity, what long- term effects will this have on the health and/or stability of the magician? 
 ####  Do different races/species have different sources for their magic, or does everybody use the same one?
 ####  How does a magician tap his/her magic power? 
 ####  Does becoming a magician require some rite of passage (investing one’s power in an object, being chosen by the gods, constructing or being given a permanent link to the source of power) or does it just happen naturally, as a gradual result of much study or as a part of growing up?
@@ -199,7 +199,7 @@
 ####  Does working spells take lots of long ritual, or is magic a “point and shoot” affair?
 ####  Can two or more wizards combine their power to cast a stronger spell, or is magic done only by individuals? 
 ####  What makes one wizard more powerful than another — knowledge of more spells, ability to handle greater levels of power, having a more powerful god as patron, etc.?
-####  Does practicing magic have any detrimental effect on the magician (such as becoming addictive, fomenting insanity, or shortening life#### span)? 
+####  Does practicing magic have any detrimental effect on the magician (such as becoming addictive, fomenting insanity, or shortening life- span)? 
 ####  If so, is there any way to prevent these effects? 
 ####  Are the effects inevitable to all magicians, or do they affect only those with some sort of predisposition? 
 ####  Do they progress at the same rate in everyone? 
@@ -213,13 +213,13 @@
 ####  Is this because of inborn ability, natural preferences, or legislation?
 ####  Does a magician’s magical ability or power change over time — e.g., growing stronger or weaker during puberty, or with increasing age? 
 ####  Can a magician “use up” all of his/her magic, thus ceasing to be a magician? 
-####  If this happens, what does the ex#### magician do — die, retire, take up teaching, go into a second career, start a freelance consulting business?
+####  If this happens, what does the ex- magician do — die, retire, take up teaching, go into a second career, start a freelance consulting business?
 ####  Can the ability to do magic be lost? 
 ####  If so, how — overdoing it, “burning out,” brain damage due to fever or a blow, etc.?
 ####  Can the ability to work magic be taken away? 
 ####  If so, how and by whom? (Traditional example: certain spells that can only be worked by virgins; raping such a witch robbed her of her powers.)
 ### Wizards
-####  Does practicing magic have any detrimental effect on the magician (such as becoming addictive, fomenting insanity, or shortening life#### span)? 
+####  Does practicing magic have any detrimental effect on the magician (such as becoming addictive, fomenting insanity, or shortening life- span)? 
 ####  If so, is there any way to prevent these effects? 
 ####  Are the effects inevitable to all magicians, or do they affect only those with some sort of predisposition? 
 ####  Do they progress at the same rate in everyone? 
@@ -257,14 +257,14 @@
 ####  If so, is it more like a driver’s license (something nearly everyone in our culture gets upon coming of age) or like a doctor’s license (something only a small percentage of the population will ever get)? 
 ####  Who certifies wizards: government, wizard’s guild/AMA, local priests?
 ####  How do local people view wizards? 
-####  Are they good guys, bad guys, Clint Eastwood (call in only to get rid of dragons), regular working stiffs, ivory#### tower academics, nuisances who make it rain when you’re plowing, dangerous folks to stay away from?
+####  Are they good guys, bad guys, Clint Eastwood (call in only to get rid of dragons), regular working stiffs, ivory- tower academics, nuisances who make it rain when you’re plowing, dangerous folks to stay away from?
 ####  How do you get to be a wizard/magician? 
 ####  Does it require inborn talent, study and hard work, practice, or all of the above?
 ####  Are wizards barred from certain kinds of government jobs or offices? 
 ####  Do some government jobs require that their holder be a wizard?
 ####  If magic requires study, where do you go to learn about it? 
 ####  How do people fund their training? 
-####  Is there an apprenticeship system, or are there wizard schools, or is it one#### on#### one tutoring/mentoring? 
+####  Is there an apprenticeship system, or are there wizard schools, or is it one-on-one tutoring/mentoring? 
 ####  Is an untrained wizard dangerous, or just an ordinary person?
 ####  Do wizards have a special language that is used for magic? 
 ####  If so, where do they learn it? 
@@ -285,7 +285,7 @@
 ####  Do they make them, buy them from craftsmen, inherit them from their teachers, or order them from Wizardry Supplies, Inc.?
 ####  Where does magic power come from: the gods, the “mana” of the world, the personal willpower of the magician? 
 ####  Is magic an exhaustible resource? 
-####  If a magician must feed his spells with his own willpower, life#### force, or sanity, what long#### term effects will this have on the health and/or stability of the magician? 
+####  If a magician must feed his spells with his own willpower, life- force, or sanity, what long- term effects will this have on the health and/or stability of the magician? 
 ####  Do different races/species have different sources for their magic, or does everybody use the same one?
 ####  How does a magician tap his/her magic power? 
 ####  Does becoming a magician require some rite of passage (investing one’s power in an object, being chosen by the gods, constructing or being given a permanent link to the source of power) or does it just happen naturally as part of growing up, like puberty?
@@ -305,7 +305,7 @@
 ####  Is catching and punishing illegal magicians the responsibility of the magician’s guild, or do the ordinary courts have to handle it?
 ####  Magic and Technology
 ####  Are there magical means of transportation (teleport spells, magic carpets, dragon#### riding)? 
-####  How do they compare in speed, safety and expense to non#### magical means? 
+####  How do they compare in speed, safety and expense to non- magical means? 
 ####  Are there any drawbacks to magical travel (for example, teleport sickness)? 
 ####  How commonly are they used, and for what purposes (industrial shipping vs. travel for fun)?
 ####  Are there magical means of rapid communication? 
@@ -314,18 +314,18 @@
 ####  Are magical weapons available? 
 ####  Can magic be used in warfare? 
 ####  In what ways? 
-####  Are spells fast enough to be useful in hand#### to#### hand combat, or is magic more of a siege weapon, used only for long, slow things?
+####  Are spells fast enough to be useful in hand- to hand combat, or is magic more of a siege weapon, used only for long, slow things?
 ####  How has the presence of magic affected weapons technology? 
 ####  Can magic make weapons more effective? 
 ####  Do you have to do anything special to walls, armor, or weapons to make them better able to resist enemy spells?
 ####  How has the presence of magic affected weapons technology? 
-####  Can an ordinary, non#### weapon#### type object be enchanted to make it extremely lethal (the Frying Pan of Death) or will this work properly only on things that are already weapons? 
+####  Can an ordinary, non- weapon#### type object be enchanted to make it extremely lethal (the Frying Pan of Death) or will this work properly only on things that are already weapons? 
 ####  Can ordinary objects be enchanted to make them (or their user) supremely good at something (the Frying Pan of Ultimate Gourmet Cooking, the Comb of No Bad Hair Days Ever)? 
 ####  How common and useful are such enchantments?
 ####  To what degree does the presence of magic, magical objects, and wizards replace technology (for example, a chest that is enchanted to keep its contents cold could replace the refrigerator)? 
 ####  Duplicate technology? 
 ####  Supplement technology?
-####  Can spells and/or magical items be mass#### produced? 
+####  Can spells and/or magical items be mass-produced? 
 ####  Are there magic carpet factories and boutiques selling magic rings?
 ####  Can spells and/or magical items be used to increase the efficiency of manufacturing or mass production? 
 ####  Do businesses keep a wizard on retainer, as modern businesses might keep a lawyer or efficiency expert? 
@@ -341,7 +341,7 @@
 ####  Where did civilization begin? 
 ####  What directions did it spread? 
 ####  How was its development affected by the presence of magic? 
-####  The presence of non#### human races, if any? 
+####  The presence of non- human races, if any? 
 ####  The direct or indirect action of the gods?
 ####  In what ways can magic or spells be abused? 
 ####  How often does this happen?
@@ -379,7 +379,7 @@
 ####  Is healing generally a magical process? 
 ####  If so, how does the magical healing talent work? Does a magical healer have to consciously direct the healing process (meaning that lots of knowledge of anatomy, etc., would be required), or does magical healing simply speed up the normal, unconscious healing process in the patient? 
 ####  Is there more than one kind of magical healer (as there are surgeons, eye doctors, etc.)? 
-####  Are there both magical and non#### magical healers, and if so, are they rivals or simply different specialties?
+####  Are there both magical and non- magical healers, and if so, are they rivals or simply different specialties?
 ####  What level is medicine at? 
 ####  Who are the healers? 
 ####  Do you have to have a talent to heal, or just training? 
@@ -390,7 +390,7 @@
 ####  Are the results of forensic spells admissible in court as evidence? 
 ####  Is it something any wizard can do, or do you have to specialize?
 ####  Are there separate civil and criminal courts? 
-####  Human and non#### human courts? 
+####  Human and non- human courts? 
 ####  Is there a separate court or procedure for magical crimes? 
 ####  What is different about each type of court? 
 ####  Are judges or other court officials required/forbidden to know magic? 
@@ -463,7 +463,7 @@
 ####  Is there a special I#### am#### not#### armed gesture for wizards?
 ####  Is there a difference between the greeting offered to an equal and that offered to a superior or inferior? 
 ####  Is there a difference between the greeting offered a man or a woman? 
-####  Human/non#### human?
+####  Human/non- human?
 ####  Is there a way of changing a greeting gesture to make it insulting?
 ####  How are two people who have never met normally introduced to each other? 
 ####  What is the order of precedence when there are several people of differing sex or social status present, all of whom need to be introduced to each other?
@@ -544,7 +544,7 @@
 ####  What is the most desired/most valuable stuff in this society — gold, jewels, drugs, money, furs, reindeer, etc.? 
 ####  Why is it desired/valued? 
 ####  Do different races value different things? 
-####  Is there a race/culture for whom non#### material things (information, time) are the most valuable things? 
+####  Is there a race/culture for whom non- material things (information, time) are the most valuable things? 
 ####  How did they get that way?
 ####  What things are considered normal and acceptable in this society that would not be considered normal or acceptable in yours? (Examples: dueling, drugs, open homosexuality, polygamy, infanticide.)
 ####  What things are considered shocking in this society that are not considered shocking in yours — e.g., showing a woman’s ankles, eating left#### handed, reading in public? 
@@ -606,9 +606,9 @@
 ####  Why or why not? 
 ####  How many gods are there, and is there a hierarchy among them? 
 ####  Which ones are good or evil, or is this meaningless when speaking of gods?
-####  How do various religions view non#### believers? 
+####  How do various religions view non- believers? 
 ####  Foreigners? 
-####  Non#### humans? 
+####  non- humans? 
 ####  Which support the state/ruler/government, and which are interested mainly in ordinary people?
 ####  What customs surround a birth and the introduction of a new child to the family? 
 ####  Is the mother sequestered for some period? 
@@ -652,7 +652,7 @@
 ####  How many people are there in this country? 
 ####  How does this compare with world population? 
 ####  What is considered a small town/large town/city in terms of number of people?
-####  How diverse is the population of this country — how many different races (human or non#### human), creeds, etc. normally live in various cities and towns in this country? 
+####  How diverse is the population of this country — how many different races (human or non- human), creeds, etc. normally live in various cities and towns in this country? 
 ####  In what percentages?
 ####  Is population shifting from rural to urban, south to north, mountains to coast, etc.? 
 ####  Why — invasion, plague, gold rush, job opportunities, etc.? 
@@ -802,7 +802,7 @@
 ####  Punished? 
 ####  Is catching and punishing illegal magicians the responsibility of the magician’s guild, or do the ordinary courts have to handle it?
 ####  Are there separate civil and criminal courts? 
-####  Human and non#### human courts? 
+####  Human and non- human courts? 
 ####  Is there a separate court or procedure for magical crimes? 
 ####  What is different about each type of court? 
 ####  Are judges or other court officials required/forbidden to know magic? 
@@ -847,7 +847,7 @@
 ####  How much do official attitudes toward other countries affect commerce and trade? 
 ####  Do merchants pretty much ignore tensions between government as long as they can make a profit, or will this get them into trouble? 
 ####  Are there Customs inspectors or their equivalents at border crossings? 
-####  Is the export/import of some technologies/magics/commodities regulated by the government, or by non#### governmental cartels? 
+####  Is the export/import of some technologies/magics/commodities regulated by the government, or by non- governmental cartels? 
 ####  How does this affect political relationships between countries?
 ####  How much formal spying and intelligence gathering is normally done by governments? 
 ####  The military? 
@@ -892,13 +892,13 @@
 ####  How many days’ worth of supplies can the army haul along with them? (Ref. Alexander the Great and the Logistics of the Macedonian Army for the math on how much a horse can carry, how much it needs to eat, etc.)
 ####  What are the accepted conventions of making war (e.g., only fight in winter when nobody is busy with crops; don’t make war on civilians; only certain kinds of weapons are available, etc.)? 
 ####  Do they differ from race to race?
-####  How does the presence of non#### humans (dwarves, vampires, etc.) affect strategy, tactics, and battles generally? 
-####  Are special weapons required if an army is facing certain kinds of non#### human armies? 
-####  How could non#### human soldiers turn their physical differences from humans to their advantage?
-####  Are particular non#### human races traditionally better with certain weapons (e.g., dwarves with axes, elves with bows)? 
+####  How does the presence of non- humans (dwarves, vampires, etc.) affect strategy, tactics, and battles generally? 
+####  Are special weapons required if an army is facing certain kinds of non- human armies? 
+####  How could non- human soldiers turn their physical differences from humans to their advantage?
+####  Are particular non- human races traditionally better with certain weapons (e.g., dwarves with axes, elves with bows)? 
 ####  Why — because they have greater strength, better eyesight, more manual dexterity, etc.?
 ####  Do relations between countries depend mainly on the relations between the heads of state, or can two rulers hate each other’s guts without being able to just declare war and drag their countries into it?
-####  If there’s a long#### term war in progress, how has the home front been affected? 
+####  If there’s a long- term war in progress, how has the home front been affected? 
 ####  Are people being drafted much younger/older than they used to be? 
 ####  Have people been forced to step into nontraditional roles — peasants managing a business, women shoeing horses, children making bullets, etc.? 
 ####  How have these changes affected society? 
@@ -919,14 +919,14 @@
 ####  Are magical weapons available? 
 ####  Can magic be used in warfare? 
 ####  In what ways? 
-####  Are spells fast enough to be useful in hand#### to#### hand combat, or is magic more of a siege weapon, used only for long, slow things?
+####  Are spells fast enough to be useful in hand-# to#### hand combat, or is magic more of a siege weapon, used only for long, slow things?
 ####  How has the presence of magic affected weapons technology? 
 ####  Can magic make weapons more effective? 
 ####  Do you have to do anything special to walls, armor, or weapons to make them better able to resist enemy spells?
 ####  How much has the presence of magic affected strategy and tactics in general? 
 ####  Is magic used primarily for intelligence gathering (spells of invisibility, scrying, etc.), or are there spells that are of use on the battlefield (summoning a demon to attack the enemy, casting fire storms at them, etc.)? If battlefield magic is possible, how can it be defended against?
 ####  How has the presence of magic affected weapons technology? 
-####  Can an ordinary, non#### weapon#### type object be enchanted to make it extremely lethal (the Frying Pan of Death) or will this work properly only on things that are already weapons? 
+####  Can an ordinary, non- weapon#### type object be enchanted to make it extremely lethal (the Frying Pan of Death) or will this work properly only on things that are already weapons? 
 ####  Can ordinary objects be enchanted to make them (or their user) supremely good at something (the Frying Pan of Ultimate Gourmet Cooking, the Comb of No Bad Hair Days Ever)? 
 ####  How common and useful are such enchantments?
 ####  What personal weapons are available to anyone who can afford them? 
@@ -956,7 +956,7 @@
 ####  How much do official attitudes toward other countries affect commerce and trade? 
 ####  Do merchants pretty much ignore tensions between government as long as they can make a profit, or will this get them into trouble? 
 ####  Are there Customs inspectors or their equivalents at border crossings? 
-####  Is the export/import of some technologies/magics/commodities regulated by the government, or by non#### governmental cartels? 
+####  Is the export/import of some technologies/magics/commodities regulated by the government, or by non- governmental cartels? 
 ####  How does this affect political relationships between countries?
 ### Business and Industry
 ####  How is business organized? 
@@ -1013,7 +1013,7 @@
 ### Transportation and Communication
 ####  What are the common domesticated animals used for transportation at various levels of society — e.g., oxen, horses, donkeys, camels, etc.?
 ####  Are there magical means of transportation (teleport spells, magic carpets, dragon#### riding)? 
-####  How do they compare in speed, safety and expense to non#### magical means? 
+####  How do they compare in speed, safety and expense to non- magical means? 
 ####  Are there any drawbacks to magical travel (for example, teleport sickness)? 
 ####  How commonly are they used, and for what purposes (industrial shipping vs. travel for fun)?
 ####  For traveling short distances within a city, what are the alternatives? 
@@ -1047,7 +1047,7 @@
 ####  Is there freedom of the press? 
 ####  If not, who controls/censors it and by what means?
 ####  How are books produced? 
-####  Are they common (has the printing press been invented) or are they rare, valuable, expensive, hand#### written objects? 
+####  Are they common (has the printing press been invented) or are they rare, valuable, expensive, hand-# written objects? 
 ####  If the latter, who has the time and skill to produce them?
 ####  Where are the great libraries or collections of books/scrolls/manuscripts? 
 ####  How accessible are they to scholars, wizards, the general public? Who supports them?
@@ -1082,7 +1082,7 @@
 ####  Is healing generally a magical process? 
 ####  If so, how does the magical healing talent work? 
 ####  Does a magical healer have to consciously direct the healing process (meaning that lots of knowledge of anatomy, etc., would be required), or does magical healing simply speed up the normal, unconscious healing process in the patient? 
-####  Is there more than one kind of magical healer (as there are surgeons, eye doctors, etc.)? Are there both magical and non#### magical healers, and if so, are they rivals or simply different specialties?
+####  Is there more than one kind of magical healer (as there are surgeons, eye doctors, etc.)? Are there both magical and non- magical healers, and if so, are they rivals or simply different specialties?
 ####  Is there a reliable method of birth control? 
 ####  Who normally handles births — midwives or doctors? 
 ####  What is the mortality rate for pregnant ladies, new mothers, and children?
@@ -1100,11 +1100,11 @@
 ####  How is insanity treated? 
 ####  Are there asylums or treatment centers, or is it handled case#### by#### case? 
 ####  How effective are treatments for insanity?
-####  How much do the physical differences between humans and non#### humans affect their medical treatment? 
-####  Are there diseases that only affect non#### humans, or only humans? 
+####  How much do the physical differences between humans and non- humans affect their medical treatment? 
+####  Are there diseases that only affect non- humans, or only humans? 
 ####  Are there diseases that affect everybody, but with different degrees of severity — a mild cold in a human is galloping pneumonia in a dwarf? 
 ####  Are some treatments lethal to one species but effective for others? 
-####  Do doctors or healers have to specialize to do a good job of treating non#### human patients?
+####  Do doctors or healers have to specialize to do a good job of treating non- human patients?
 ### Arts and Entertainment
 ####  What is the status of the arts (dance, music, theater, etc.) in this society? 
 ####  Are artists revered or mistrusted? 
@@ -1130,11 +1130,11 @@
 ####  Have paper#### making and the printing press been invented, or are books and scrolls rare, expensive, handwritten items?
 ####  What things are considered appropriate subjects for representational arts such as painting and sculpture? 
 ####  Which are not? (Examples: some cultures/religions forbid the painting or sculpture of the human figure, and have abstract art; some have limited painters to doing only “uplifting” religious works, etc.)
-####  Are there non#### human races who tend to be naturally talented painters, dancers, etc.? 
+####  Are there non- human races who tend to be naturally talented painters, dancers, etc.? 
 ####  How does this affect human practitioners of these arts?
-####  Do non#### human races have their own games and leisure pastimes? 
+####  Do non- human races have their own games and leisure pastimes? 
 ####  How do they differ from human games? 
-####  How do they reflect the physiology and/or particular magical talents of the various non#### human races?
+####  How do they reflect the physiology and/or particular magical talents of the various non- human races?
 ####  Are certain races/cultures considered better at some arts than other races/cultures? 
 ####  Where do the best dancers, painters, musicians, actors, etc. come from?
 ####  What are the standards of beauty for people? 
@@ -1199,7 +1199,7 @@
 ####  How reliable is the weather from year to year — is crop production relatively dependable, or do people have to cope with regular famines due to drought or floods?
 ####  What kinds of catastrophic weather are common — tornadoes, hurricanes, blizzards, waterspouts, dust storms? 
 ####  How do people cope? 
-####  How do non#### humans cope?
+####  How do non- humans cope?
 ####  How are farming/food#### producing areas divided up between humans/nonhumans? 
 ####  What kinds of conflicts are likely to result? (Example: Expanding human farms encroaching on a forest that dragons or werewolves use for hunting.)
 ####  Can peasants/yeomen own their own land, or does it all belong to the lord? 
@@ -1208,7 +1208,7 @@
 ## Daily Life
 ### General
 ####  How do ordinary people feel about foreigners? 
-####  Non#### humans? 
+####  non- humans? 
 ####  How ready are they to accept different ideas? 
 ####  How cosmopolitan are they?
 ####  How much social mobility is there? 
@@ -1219,7 +1219,7 @@
 ####  What do people generally look like? 
 ####  Would a blonde (redhead, brunette) stand out in a crowd? 
 ####  Someone 5′ 10″ tall? 
-####  Do non#### humans stand out in a crowd, or are there enough of them around that they’re considered ordinary?
+####  Do non- humans stand out in a crowd, or are there enough of them around that they’re considered ordinary?
 ####  What are accepted norms of personal hygiene? 
 ####  Do most people bathe regularly, or is bathing considered a health hazard?
 ####  How is garbage and other waste material disposed of?
@@ -1255,7 +1255,7 @@
 ####  Hats? 
 ####  Jewelry? 
 ####  Shoes? 
-####  Do such fashions differ for humans/non#### humans? 
+####  Do such fashions differ for humans/non- humans? 
 ####  Between city and country?
 ####  What materials are appropriate to the climate? 
 ####  What materials must be imported, and are therefore for expensive upper#### class clothes only?
@@ -1264,7 +1264,7 @@
 ####  What colors and combinations of colors are thought to look well or to clash? 
 ####  Do opinions on this vary from race to race?
 ####  What physical types and characteristics are currently fashionable — tan vs. pale skin, the “consumptive look” vs. robust good health, fat vs. thin, blonde vs. brunette, muscles vs. “dead poet”, etc.?
-####  How do non#### human fashions reflect their physiology? 
+####  How do non- human fashions reflect their physiology? 
 ####  Do dragons dress for dinner? 
 ####  Do mermaids have a nudity taboo?
 ### Manners
@@ -1315,7 +1315,7 @@
 ####  How reliable are the methods used — how often does “preserved” food spoil?
 ####  When food is in limited supply, who gets first crack? 
 ####  The laborers and farmers who have to work to produce more, or the children who are the next generation, or the wise and revered elders, or the nobility?
-####  What foods and seasonings do non#### humans like, and how do these differ from those favored by humans? 
+####  What foods and seasonings do non- humans like, and how do these differ from those favored by humans? 
 ####  Are some foods poisonous or distasteful to one species that are delicacies or necessary to another?
 ####  Are there times when people are expected to fast (e.g., before solstice, after the birth of a child, during Lent or Ramadan, after the death of a ruler, etc.)?
 ####  Given the state of roads and transportation, how much food is it possible to ship to a given location before it spoils? (This limits the size of cities.)
