@@ -1,3 +1,4 @@
+#research #deities #slavic
 Supreme deities
 Perun	Perun is the god of lightning and thunder,  as well as of war,  and the patron of the druzhina. He is the etymological and functional continuator of the Proto-Indo-European thunder god *Perkʷunos, and shares many characteristics with other thunder gods worshipped by Indo-Europeans. He is mentioned most notably in Primary Chronicle, where a grey-haired and golden-moustached statue of Perun is described in temple on Old Kyiv Hill, and Third Novogorod Chronicle, where his statue is described in Peryn, and in many texts warning against paganism. His name survived in spells and in proper names. Armed usually with an axe, hammer, or spear, he fights chaos demons. His figure is preserved in folklore primarily in the form of saint Elijah and saint George.
 
