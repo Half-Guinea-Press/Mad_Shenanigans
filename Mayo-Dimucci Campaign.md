@@ -2,6 +2,7 @@
 #Campaign 
 # Players
 ## Ally
+[[Barbarian]] Posh aristocrat/noble [[Estoc]]
 ## Elizabeth
 ## Elsa
 ## Lane
