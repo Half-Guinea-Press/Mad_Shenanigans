@@ -1,11 +1,9 @@
 {
   "mobileToolbarCommands": [
-    "note-composer:split-file",
     "note-composer:extract-heading",
     "editor:insert-wikilink",
     "editor:toggle-checklist-status",
     "editor:toggle-bullet-list",
-    "editor:toggle-numbered-list",
     "editor:insert-embed",
     "editor:insert-tag",
     "editor:attach-file",

@@ -2,12 +2,9 @@
 # Worldbuilding Questions
 ## The World
 ### Basics
-#### Are the laws of nature and physics actually different in this world, or are they the same as in real life? 
-Overall the laws of nature and physics work the same and the real world. The situations where they don't are because of something forcing them to bend, become wobbly, or become ignorable.
-#### How does magic fit in? 
-Magic is the ability to adjust reality. This is typically done in one of two ways: changing the rules by which the universe operates or manipulating what side of a boundary between levels of reality certain things or places are. 
-#### How do magical beasts fit in?
-Magical beasts are either a specialized adaptation to an unusually high amount of ambient magic in a given area or biome, or it has came from a different layer of reality that has different rules as to how things operate and thus has evolved completely differently. Many other realmly beasts do not survive long without the environment in which they originate. Those that do are either capable of adjusting or are capable of adjusting their environment.
+[[Are the laws of nature and physics actually different in this world, or are they the same as in real life?]]
+[[How does magic fit in?]]
+[[How do magical beasts fit in?]]
 #### Is this generally an earth-like world? 
 #### Is it an “alternate Earth”?
 #### Are there different human races, whether or not there are non-humans like elves or dwarves? 

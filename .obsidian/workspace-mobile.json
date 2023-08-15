@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230814 Mo.md",
+            "file": "worldbuilding.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230814 Mo.md",
+            "file": "worldbuilding.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230814 Mo.md"
+            "file": "worldbuilding.md"
           }
         }
       }
@@ -143,10 +144,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a6cd2ec437add70",
+  "active": "a52d32a4ef7c2b34",
   "lastOpenFiles": [
-    "Daily_Notes/230814 Mo.md",
+    "How do magical beasts fit in?.md",
+    "Are the laws of nature and physics actually different in this world, or are they the same as in real life?.md",
+    "How does magic fit in?.md",
     "worldbuilding.md",
+    "Daily_Notes/230814 Mo.md",
     "Daily_Notes/230813 Su.md",
     "Daily_Notes/230812 Sa.md",
     "Art vs ai art.md",
