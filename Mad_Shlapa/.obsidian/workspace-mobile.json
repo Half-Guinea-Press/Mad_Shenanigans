@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "eb7e85f8a7a8cd0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd04fb74b95bc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b578456405e3c4e0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mad Canvas.canvas",
+                "viewState": {
+                  "x": 744.712580924931,
+                  "y": 537.1152682732427,
+                  "zoom": -0.026260878670687975
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3752ee6a0acba2a4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bf07d4d70f85496a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2eb54556ce52b75c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4f62ba33eb7435d3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "100ccef67bdd2622",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2099e41c042d35a4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3dd76a936c947fde",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Mad Canvas.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d7708c883062ff70",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Mad Canvas.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f8e2f6ab67df375b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Mad Canvas.canvas"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b578456405e3c4e0",
+  "lastOpenFiles": [
+    "Daily Note",
+    "Templates",
+    "Old House.md",
+    "New House.md",
+    "Counter Punch.md",
+    "Mad Canvas.canvas",
+    "Things to do.md",
+    "Start.md",
+    "Untitled.md"
+  ]
+}

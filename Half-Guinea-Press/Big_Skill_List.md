@@ -1,0 +1,922 @@
+- a
+- abuse
+- academic skills
+- accounting/actuary
+- acrobatics
+- act
+- acting
+- actuary
+- acupuncture
+- adapt
+- administration
+- advertising
+- aerodynamics
+- aerospace
+- agriculture/agronomy
+- alchemy
+- alertness
+- analysis
+- analyze
+- anatomy
+- anchor
+- ancient history
+- ancient language
+- animal
+- animal anatomy
+- animal behavior
+- animal call
+- animal disease
+- animal evaluation
+- animal genetics
+- animal handling
+- animal health
+- animal husbandry
+- animal lore
+- animal management
+- animal nutrition
+- animal selection
+- animal training
+- anisthesiology
+- anomolistics
+- anthropological linguistics
+- anthropology
+- antiques
+- appraisal
+- appraising
+- arbitration
+- arcane lore
+- archaeology
+- archery
+- archery attack
+- architecture
+- archivist
+- area knowledge area
+- armorer
+- art
+- art critic
+- artifact lore
+- artistry
+- astrogation
+- astrogeology
+- astrology
+- astronautics
+- astronomy
+- astrophysics
+- athletics
+- auto mechanic
+- automotive
+- autopsy
+- awareness
+- b
+- backstab
+- balance
+- balancing
+- balancing feats
+- banking
+- bard
+- bargain
+- barter
+- bash attack
+- battle-ready
+- befriend
+- berserk
+- bicycling
+- bioassay
+- bioastronautics
+- bioautography
+- biocatalyst
+- biocenosis
+- biochemistry
+- bioclimatology
+- bioelectricity
+- bioengineering
+- bioenvironment
+- bioequivelance
+- bioethics
+- biofeedback
+- biogeography
+- biointrumentation
+- biology
+- biology bacteriology
+- biomaterial reconstruction prosthetics
+- biomechanics
+- biomedicine
+- biomolecular fission gene splicing
+- biomolecular fusion gene sequencing
+- biomonitoring
+- biomorphology
+- bionics
+- bionomics
+- biophysics
+- biopsy
+- bioscience
+- biosensors
+- biospeleology
+- biostereometrics
+- biosynthesis
+- biotechnology
+- biotelemetry
+- biotranspformation
+- blackmail
+- blacksmith
+- blade
+- blind fighting
+- blindfighting
+- bluff
+- boating
+- body language
+- bootlicking
+- boozing
+- botany
+- bow
+- bowyer
+- boxing
+- brainwashing
+- brawl
+- brawling
+- break
+- breath control
+- brewing
+- bribe
+- bribery
+- build
+- bullfighting
+- business
+- c
+- calligraphy
+- camouflage
+- camping
+- candlemaking
+- cannon attack
+- caravan drive
+- careful
+- carousing
+- carpentry
+- cartographer
+- cartography
+- chariot drive
+- charisma
+- charm
+- chef
+- chemical hydrology
+- chemistry
+- chiropractic
+- chromatography
+- chronography
+- civil
+- clever
+- climatology
+- climb
+- climbing
+- coach drive
+- coach sports
+- cobbler
+- cobbling
+- coding
+- coercion
+- combat
+- combat firearms
+- combat martial arts
+- combat melee
+- combat ranged
+- combat vehicle
+- comedy
+- commodities
+- communication systems
+- communication systems technology
+- comparative religion
+- computer operation
+- computer programming
+- computer repair
+- computer science
+- computer technology
+- computer theory
+- computer use
+- computer user
+- computers
+- con
+- conceal
+- concealment
+- conclude
+- connoiseur
+- conservation
+- construction
+- contortion
+- contortionist
+- conversation
+- convince
+- cooking
+- cooper
+- corrections
+- cosmetology
+- cosmology
+- counter-espionage
+- counterfeit/identify
+- counterfeiting
+- course
+- courtesan
+- craft
+- craft armor
+- craft artwork
+- craft bullet
+- craft drug
+- craft electrical item
+- craft electrical weapon
+- craft explosive
+- craft fire
+- craft firearm
+- craft fortifications
+- craft fuel
+- craft improvised weapon
+- craft mechanical item
+- craft medicine
+- craft melee weapon
+- craft ranged weapon
+- craft shelter
+- craft song
+- craft structure
+- craft textile
+- craft trap
+- craft vehicle
+- craft writing
+- craft/create
+- crafting
+- crawl
+- create
+- creative
+- credit rating
+- criminology
+- crossbow attack
+- cryptography
+- cryptozoology
+- culture wise
+- cultures
+- current events
+- customs inspection
+- cybernetics
+- cytology
+- d
+- damage control
+- dancing
+- dash
+- dead language
+- dead reckoning
+- deceit
+- deceive
+- deduction
+- defenses
+- demolition
+- dendrochronology
+- dentistry
+- dermatology
+- detect lie
+- detect lies psych
+- detect traps
+- detect vice
+- diagnose
+- diagnosis
+- dietician
+- diplomacy
+- disable electrical
+- disable mechanical
+- disable structural
+- disarm attack
+- disarm opponent
+- disarm traps
+- disguise
+- disguises
+- dive
+- diving
+- dodge
+- dodge defense
+- double jointed
+- double-handed combat
+- drag
+- draw
+- drinking
+- drive
+- drive automobiles
+- drive self powered vehicle
+- drive vehicle
+- driving
+- drug
+- drugs
+- dry cleaning
+- e
+- ecology
+- economics
+- education
+- electrical
+- electronic countermeasures
+- electronic operator
+- electronics
+- electronics operation
+- electronics technology
+- embryology
+- empathy
+- emt
+- enchanting
+- encryption
+- endear
+- endocrinology
+- energy systems
+- engineering
+- engrace
+- ensnare
+- entertain
+- entice
+- entomology
+- environmental
+- environmental geology
+- epidemiology
+- escape
+- escape artist
+- escape bonds
+- espionage
+- etc.
+- ethnology
+- ethology
+- etiquette
+- evaluate
+- explosives
+- extreme sports
+- f
+- falconry
+- fall tumbling
+- familiarity subject
+- farming
+- fast-draw
+- fast-talk
+- fencing
+- filch
+- filching
+- filmmaking
+- find cover
+- finding
+- fine arts
+- fire breathing
+- firearms
+- firearms familiarity
+- firebuilding
+- fire-making
+- first aid
+- fisherman
+- fishing
+- fishing / hunting
+- fitness
+- fix
+- flashy
+- fletcher
+- flip
+- flips
+- flirting
+- fluid mechanics
+- focus
+- folklore
+- foraging
+- foraging find food
+- forceful
+- forensics
+- forestry
+- forgery
+- fortune telling
+- forward observer
+- freefall
+- g
+- gadgetry
+- gambler
+- gambling
+- games chess/checkers/go
+- games of chance
+- gaming type
+- gastroenterology
+- gastrointerology
+- gather information
+- gemcutting
+- general
+- general earth-space science
+- general knowledge
+- general physical science
+- general practice/family medicine
+- genetic engineering cloning
+- genetics
+- geochemistry
+- geochronology
+- geography
+- geology
+- geomorphology
+- geophysics
+- geriatrics
+- gesture
+- gibberish
+- glassblower
+- goad
+- golf course management
+- gourmet
+- graphology/forgery
+- grapple attack
+- grooming animals
+- grow
+- gunner
+- gunnery
+- gunsmith
+- gymnastics
+- h
+- h.a.m.
+- hack
+- hacking
+- haggle
+- haggling
+- hand held weapon
+- handgun attack
+- handle animal
+- handle animals
+- handwriting analysis
+- hang-gliding
+- hawking
+- healing
+- health sciences
+- heavy armor proficiency
+- heavy equipment
+- heavy weapons
+- hematology
+- hepatology
+- heraldry
+- herbalism
+- herding
+- herpatology
+- hibernate
+- hide in shadows
+- hiding
+- history
+- holdout
+- hologram
+- homeopathy
+- hunter
+- hunting
+- husbandry
+- hydrology
+- hydrometeorology
+- hydroponics
+- hygiene
+- hypnotism
+- hypnotize
+- i
+- ichthyology
+- identify
+- ignore
+- illustarator
+- immunology
+- impersonation
+- improve
+- improvisation
+- improvise
+- industrial
+- industrial trade
+- insight
+- instruct
+- instruction
+- insurance/claims
+- intelligence analysis
+- internet
+- interrogate
+- interrogation
+- intimidate
+- intimidation
+- investigate
+- investigation
+- j
+- jack of all trades
+- jargon
+- jeweler
+- journalism
+- jousting
+- juggling
+- juggling/sideshow
+- jump
+- jump,
+- jumping
+- kick attack
+- know
+- knowledge
+- knowledge anatomy
+- knowledge behavioral sciences
+- knowledge biology
+- knowledge chemistry
+- knowledge current events
+- knowledge electrical
+- knowledge geography
+- knowledge mechanical
+- knowledge skill
+- knowledge street smarts
+- knowledge tactics
+- l
+- language
+- laser technology
+- lasso
+- laundry
+- law
+- leadership
+- leather working
+- leatherworking
+- legends/lore
+- liason
+- library science
+- library use
+- lie
+- lift
+- lifting
+- light armor proficiency
+- linguist
+- linguistics
+- link
+- lip reading
+- listen
+- literacy
+- literacy language
+- literature
+- lockpicking
+- locksmith
+- longarm attack
+- lying
+- m
+- machinist
+- macrobiology
+- mammology
+- manual labor
+- marine geology
+- marine geophysics
+- marketing
+- marksman
+- martial arts
+- masonry
+- massage
+- mathematics
+- mechanics
+- mediation
+- medic
+- medical
+- medicine
+- meditation
+- medium armor proficiency
+- melee
+- melee weapon
+- memory
+- merchandising
+- merchant
+- metallurgy
+- metaphysics
+- meteorology
+- microbilogy
+- mid-wife
+- military operations
+- military science
+- military vehicles
+- mimic
+- mindblock
+- minerology
+- mining
+- modeling
+- molecular biology
+- motivation
+- motorcycles
+- mountaineering
+- move silently
+- music
+- music appreciation
+- musical instrument
+- musician
+- mysticism
+- mythology
+- n
+- native language
+- natural history
+- naturalist
+- naval
+- navigate
+- navigation
+- negotiate
+- negotiation
+- nephrology
+- neurology
+- neuro-physiology
+- nuclear
+- nuclear physics
+- o
+- obfuscate
+- observation
+- observe
+- obstetrics/gynecology
+- occult lore
+- occultism
+- oceanography
+- oncology
+- open lock
+- operate
+- optics
+- optometry
+- orate
+- oratory
+- organize
+- orient 3d
+- ornithology
+- orthodontics
+- orthopedics
+- osteopathy
+- overdo
+- p
+- packing
+- paint
+- painting
+- paleaentology
+- paleoclimatology
+- palynlogy
+- pantomime
+- parachute
+- paramedic
+- parapsychology
+- parasailing
+- parasitology
+- parry defense
+- pathology
+- pediatrics
+- pedology
+- perception
+- perform
+- perform play instrument
+- perform singch
+- performance
+- performance acts
+- persuasion
+- petrology
+- pharmacy
+- philosophy
+- photography
+- physical education
+- physical science
+- physical skill
+- physics
+- physiology
+- pick locks
+- pick pocket
+- picking
+- pickpocket
+- pilot
+- pilot 
+- pilot aircraft
+- pilot construction vehicle
+- play an instrument
+- plumbing
+- podiatry
+- poetry
+- poisons
+- police procedure
+- politics
+- pottery
+- practical jokes
+- predict weather
+- prestidigitation
+- proctology
+- production
+- profession
+- professional
+- professions
+- propaganda
+- prospecting
+- prosthetics
+- protozoology
+- psionics
+- psychoanalysis
+- psychology
+- public service
+- public speaking
+- pull
+- punch attack
+- push
+- q
+- quick
+- quick-draw
+- r
+- radiation technology
+- radio
+- radiology
+- random theories
+- range management
+- react
+- read
+- read lips
+- read/write
+- ready
+- recognize
+- recreational activities
+- reduce damage
+- religion
+- repair
+- repair electrical
+- repair mechanical
+- repel down a rope
+- rescue
+- research
+- researcher
+- restrain
+- reverse engineering
+- rheumatology
+- ride
+- ride animal
+- riding
+- rigging
+- robotics
+- rolls
+- rope use
+- run
+- running
+- s
+- s.c.u.b.a.
+- sabotage
+- safecracking
+- savoir-faire
+- scam
+- scavenging
+- science
+- scribe
+- scrounging
+- scuba diving
+- sculpt
+- sculpting
+- sculpture
+- seafaring
+- seamanship
+- search
+- secret language
+- security systems
+- security systems/procedures
+- sedimentology
+- seduction
+- seismology
+- sell
+- semaphore
+- sense motive
+- set snares
+- sewing
+- sex appeal
+- shadowing
+- shield defense
+- shipbuilding
+- shiphandling
+- shooting
+- sign language
+- signaling
+- sing
+- singing
+- skate
+- ski
+- skills
+- slash attack
+- sled
+- sleight
+- sleight of hand
+- slide
+- slight of hand
+- sling attack
+- small equipment systems
+- smithing
+- smuggling
+- snake charming
+- snare
+- sneak
+- sneak attack
+- sneaky
+- sniper
+- social sciences
+- sociology
+- soldiering
+- spacecraft operation
+- spacecraft technology
+- speak language
+- speech
+- speed-load
+- spell craft
+- spells
+- spelunking
+- sports
+- spot hidden
+- spurious logic/babble
+- stab attack
+- stable hand
+- stalk
+- stand-up comedy
+- stash
+- statistics
+- steal
+- stealth
+- steganography
+- steward
+- stonemasonry
+- stormchasing
+- storytelling
+- strategy
+- streetwise
+- stunt driver
+- supernumerate
+- surf
+- surgery
+- surveillance
+- surveillance technology
+- survival
+- swim
+- swim.
+- swimming
+- swing
+- t
+- tactics
+- tailor
+- talking
+- tame
+- tanning furrier
+- taste
+- taxidermy
+- taxonomy
+- taylor/seamstress
+- teach
+- teaching
+- team driving
+- tech chemistry
+- tech electronics
+- tech mechanics
+- tech medicine
+- tech snooping
+- tech structural
+- technical
+- tectonics
+- telegraphy
+- telekinesis
+- television
+- teratology
+- theology
+- thermodynamics
+- they climb
+- thievery
+- throw
+- throw attack
+- throw voice
+- thrown attack
+- thrown weapon
+- tightrope walking
+- tool attack
+- topography
+- torture
+- toxicology
+- track
+- tracking
+- trade
+- training
+- trapcraft
+- trapping
+- traps
+- treat injury
+- treatment
+- trip attack
+- trivia
+- tumble
+- tumbling
+- u
+- ufology
+- unarmed
+- unarmed combat
+- underwater demolition
+- unlock
+- urban legends
+- urology
+- use explosivedemolitions
+- v
+- vaults
+- ventriloquism
+- veterinary
+- video equipment
+- voice mimicry
+- vulcanology
+- w
+- wall run
+- watercraft
+- weapon lore
+- weapon smithing
+- weapons master
+- weaponsmith
+- weather
+- weaving
+- wheelwright
+- wildlife
+- woodworking
+- wrestling
+- write
+- writer
+- writing
+- xenobiology
+- xenobotany
+- x-ray operation
+- x-ray repair
+- z
+- zero-g maneuvers
+- zero-gravity
+- zoology
+- 
