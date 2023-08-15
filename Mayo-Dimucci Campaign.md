@@ -7,3 +7,6 @@
 ## Lane
 ## Shanti
 ## Virginia
+# Mechanics
+# Campaign Setting
+# Ideas
