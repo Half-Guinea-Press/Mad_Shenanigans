@@ -1,3 +1,21 @@
-#counterpunch #madoffice #purchase
+#counterpunch #madoffice #purchase #todo
 # stuff for my desk or office space
-- [ ] 
+- [ ] wrist support for keyboard and mouse x2
+- [ ] hanging folders
+- [ ] pen cup
+- [ ] clock for desk
+- [ ] headphones w/o mic
+- [ ] tape dispenser
+- [ ] stapler
+- [ ] red pen/pencil
+- [ ] legal pads with sidebar
+- [ ] lunch box
+- [ ] three hole punch
+- [ ] command hooks
+- [ ] mushroom velcro
+- [ ] clip board x2
+- [ ] 2 hole punch
+- [ ] binder clips
+- [ ] labels
+- [ ] magnets
+- [ ] shelf
