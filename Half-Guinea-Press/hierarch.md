@@ -1,4 +1,4 @@
-PLAYTEST CONTENT
+#ttrpg #mechanic #sorcerer PLAYTEST CONTENT
 Hello! This is Playtest Content! As such, it might change in time, this is not a final release. There’ll be channels to give feedback on this article and future articles soon!
 
 DISCLAIMER: This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of its author.
