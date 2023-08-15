@@ -1,3 +1,4 @@
+#dnd #classs #mechanic
 Barbarian 
 Class Features 
 As   a   barbarian,   you   gain   the   following   class   features.   
