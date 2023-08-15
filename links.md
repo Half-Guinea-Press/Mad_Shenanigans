@@ -18,3 +18,6 @@ https://www.chanty.com/blog/discord-vs-slack/
 
 https://en.wikipedia.org/wiki/Arawn
 
+https://help.obsidian.md/Obsidian/Index
+
+https://squidfunk.github.io/mkdocs-material/reference/
