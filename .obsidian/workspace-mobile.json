@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mayo-Dimucci Campaign.md",
+                "file": "stuff for my desk or office space.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mayo-Dimucci Campaign.md",
+            "file": "stuff for my desk or office space.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mayo-Dimucci Campaign.md",
+            "file": "stuff for my desk or office space.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mayo-Dimucci Campaign.md"
+            "file": "stuff for my desk or office space.md"
           }
         }
       }
@@ -144,15 +144,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29265bd8a0aa4e03",
+  "active": "a52d32a4ef7c2b34",
   "lastOpenFiles": [
     "Daily_Notes/230815 Tu.md",
+    "stuff for my desk or office space.md",
+    "Daily_Notes/230814 Mo.md",
     "Mayo-Dimucci Campaign.md",
     "worldbuilding.md",
     "How do magical beasts fit in?.md",
     "Are the laws of nature and physics actually different in this world, or are they the same as in real life?.md",
     "How does magic fit in?.md",
-    "Daily_Notes/230814 Mo.md",
     "Daily_Notes/230813 Su.md",
     "Daily_Notes/230812 Sa.md",
     "Art vs ai art.md",
