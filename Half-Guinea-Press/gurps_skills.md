@@ -1,3 +1,4 @@
+#skills #ttrpg #mechanic
 # Gurps Skills
 
 ## Animal Skill

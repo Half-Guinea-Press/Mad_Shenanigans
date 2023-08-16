@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230815 Tu.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Campaign",
+            "query": "tag:#research",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230815 Tu.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230815 Tu.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230815 Tu.md"
+            "file": "README.md"
           }
         }
       }
@@ -146,6 +146,17 @@
   },
   "active": "a52d32a4ef7c2b34",
   "lastOpenFiles": [
+    "Sundered_Night_Errant/pcs/tk.md",
+    "Sundered_Night_Errant/pcs/kliena.md",
+    "Half-Guinea-Press/Welsh races.md",
+    "Sundered_Night_Errant/Worldbuilding_Questions.md",
+    "Sundered_Night_Errant/locations/annwn.md",
+    "Sundered_Night_Errant/pcs/dumia.md",
+    "Sundered_Night_Errant/locations/tirnanog.md",
+    "Half-Guinea-Press/gurps_skills.md",
+    "Half-Guinea-Press/Today.md",
+    "Sundered_Night_Errant/Car stuff.md",
+    "skaraˈmuttʃa.md",
     "Daily_Notes/230815 Tu.md",
     "stuff for my desk or office space.md",
     "Daily_Notes/230814 Mo.md",
@@ -161,11 +172,6 @@
     "What we need for the house and how it breaks down.md",
     "Daily_Notes/230809 We.md",
     "Daily_Notes/230810 Th.md",
-    "Templates/Daily_Note_Template.md",
-    "Alchemy.md",
-    "LICENSE",
-    "Start.md",
-    "README.md",
-    "this is a test.md"
+    "LICENSE"
   ]
 }
