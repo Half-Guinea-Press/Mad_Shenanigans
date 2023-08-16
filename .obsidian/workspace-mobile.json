@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230814 Mo.md",
+                "file": "Daily_Notes/230816 We.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily_Notes/230816 We.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +84,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 1
+    ]
   },
   "right": {
     "id": "4ac76c3457d60c30",
@@ -98,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Daily_Notes/230816 We.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Daily_Notes/230816 We.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Daily_Notes/230816 We.md"
           }
         }
       }
@@ -144,8 +142,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a52d32a4ef7c2b34",
+  "active": "3a6cd2ec437add70",
   "lastOpenFiles": [
+    "Half-Guinea-Press/campe.md",
+    "Sundered_Night_Errant/locations/Mtsen.md",
+    "Daily_Notes/230814 Mo.md",
+    "Daily_Notes/230816 We.md",
+    "README.md",
     "Sundered_Night_Errant/pcs/tk.md",
     "Sundered_Night_Errant/pcs/kliena.md",
     "Half-Guinea-Press/Welsh races.md",
@@ -159,7 +162,6 @@
     "skaraˈmuttʃa.md",
     "Daily_Notes/230815 Tu.md",
     "stuff for my desk or office space.md",
-    "Daily_Notes/230814 Mo.md",
     "Mayo-Dimucci Campaign.md",
     "worldbuilding.md",
     "How do magical beasts fit in?.md",
@@ -168,10 +170,6 @@
     "Daily_Notes/230813 Su.md",
     "Daily_Notes/230812 Sa.md",
     "Art vs ai art.md",
-    "Daily_Notes/230811 Fr.md",
-    "What we need for the house and how it breaks down.md",
-    "Daily_Notes/230809 We.md",
-    "Daily_Notes/230810 Th.md",
     "LICENSE"
   ]
 }
