@@ -1,2 +1,0 @@
-Mill run
-Quary place
