@@ -1,3 +1,4 @@
+#research #worldbuilding
 # Worldbuilding Questions
 ## The World
 ### Basics
