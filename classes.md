@@ -1,3 +1,4 @@
+#ttrpg #dnd #class #mechanic #research
 ## Canon DND 5e Classes
 - Barbarian
 - Bard
