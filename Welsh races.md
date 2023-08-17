@@ -1,3 +1,4 @@
+#ttrpg #dnd #research #race # mechanic
 Here are three (or rather four) different races for a version of Dungeons & Dragons 5th Edition based in Welsh folklore. Though these are the most obvious ones, other races could be selected as well with the DM’s will. For example, the triton from _Volo’s Guide to Monsters_ could work well as merfolk and the shifter from the D&D website could be a good fit for werewolves and even Saxon werebears and strange Annwn wereboars.
 
 Note that the language “Annwn” is that of the fey of the Otherworld, and thus replaces the normal D&D language “Sylvan.”
