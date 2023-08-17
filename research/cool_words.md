@@ -1,3 +1,4 @@
+#research #coolwords
 # Cool Words
 
 | Word | Pronounciation | Etymology | Entry |
