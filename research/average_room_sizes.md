@@ -1,3 +1,4 @@
+#research #architecture #worldbuilding #mapresource
 # Average Room Sizes
 - FOYER
 	- Small - 6 x 6
