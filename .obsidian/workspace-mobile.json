@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230816 We.md",
+                "file": "Daily_Notes/230817 Th.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230816 We.md",
+            "file": "Daily_Notes/230817 Th.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230816 We.md",
+            "file": "Daily_Notes/230817 Th.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230816 We.md"
+            "file": "Daily_Notes/230817 Th.md"
           }
         }
       }
@@ -142,12 +143,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a6cd2ec437add70",
+  "active": "a52d32a4ef7c2b34",
   "lastOpenFiles": [
+    "Half-Guinea-Press/SafetyTools.md",
+    "Daily_Notes/230817 Th.md",
+    "Daily_Notes/230816 We.md",
     "Half-Guinea-Press/campe.md",
     "Sundered_Night_Errant/locations/Mtsen.md",
     "Daily_Notes/230814 Mo.md",
-    "Daily_Notes/230816 We.md",
     "README.md",
     "Sundered_Night_Errant/pcs/tk.md",
     "Sundered_Night_Errant/pcs/kliena.md",
@@ -168,8 +171,6 @@
     "Are the laws of nature and physics actually different in this world, or are they the same as in real life?.md",
     "How does magic fit in?.md",
     "Daily_Notes/230813 Su.md",
-    "Daily_Notes/230812 Sa.md",
-    "Art vs ai art.md",
     "LICENSE"
   ]
 }
