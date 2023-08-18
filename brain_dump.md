@@ -5756,3 +5756,29 @@ The importance of "yes and"
 
 Only the DM does "no but"
 
+# Campaign Design Thoughts
+
+- Premise
+- Awesome Scene Setters
+- Awesome Macguffins
+- Awesome Panoramas
+- Awesome Side Quests
+- Tonal Cues
+- DnD canon etheral and astral realm
+- 
+
+- What is the purpose of a city in the world? Narratively?
+
+- Ocean of clues
+
+- Alignment is dumb
+- Alignment only for extra planar beings
+
+# Character Design Thoughts
+
+- Active Wants
+- Drives
+- record character scars: enemy crit damage causes scars
+- Customize as a goal through feats and perks
+- Customize for flavor
+- Give a prompt for character design
