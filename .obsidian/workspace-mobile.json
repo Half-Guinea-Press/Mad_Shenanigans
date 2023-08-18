@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230816 We.md",
+                "file": "Daily_Notes/230818 Fr.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230817 Th.md",
+            "file": "Daily_Notes/230818 Fr.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230817 Th.md",
+            "file": "Daily_Notes/230818 Fr.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230817 Th.md"
+            "file": "Daily_Notes/230818 Fr.md"
           }
         }
       }
@@ -143,11 +142,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a52d32a4ef7c2b34",
+  "active": "3a6cd2ec437add70",
   "lastOpenFiles": [
-    "Half-Guinea-Press/SafetyTools.md",
-    "Daily_Notes/230817 Th.md",
+    "Sundered_Night_Errant/locations/gwynedd.md",
+    "Daily_Notes/230818 Fr.md",
+    "Sundered_Night_Errant/pcs/dumia.md",
     "Daily_Notes/230816 We.md",
+    "Daily_Notes/230817 Th.md",
+    "Half-Guinea-Press/SafetyTools.md",
     "Half-Guinea-Press/campe.md",
     "Sundered_Night_Errant/locations/Mtsen.md",
     "Daily_Notes/230814 Mo.md",
@@ -157,7 +159,6 @@
     "Half-Guinea-Press/Welsh races.md",
     "Sundered_Night_Errant/Worldbuilding_Questions.md",
     "Sundered_Night_Errant/locations/annwn.md",
-    "Sundered_Night_Errant/pcs/dumia.md",
     "Sundered_Night_Errant/locations/tirnanog.md",
     "Half-Guinea-Press/gurps_skills.md",
     "Half-Guinea-Press/Today.md",
@@ -169,8 +170,6 @@
     "worldbuilding.md",
     "How do magical beasts fit in?.md",
     "Are the laws of nature and physics actually different in this world, or are they the same as in real life?.md",
-    "How does magic fit in?.md",
-    "Daily_Notes/230813 Su.md",
     "LICENSE"
   ]
 }
