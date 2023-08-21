@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a1b3d759b241f9",
+        "id": "277a3f90c3410389",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6cd2ec437add70",
+            "id": "4382c5bbdaf46684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230818 Fr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a52d32a4ef7c2b34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily_Notes/230817 Th.md",
+                "file": "Daily_Notes/230821 Mo.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 1
   },
   "right": {
     "id": "4ac76c3457d60c30",
@@ -96,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230818 Fr.md",
+            "file": "Daily_Notes/230821 Mo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230818 Fr.md",
+            "file": "Daily_Notes/230821 Mo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230818 Fr.md"
+            "file": "Daily_Notes/230821 Mo.md"
           }
         }
       }
@@ -142,34 +131,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a6cd2ec437add70",
+  "active": "4382c5bbdaf46684",
   "lastOpenFiles": [
-    "Sundered_Night_Errant/locations/gwynedd.md",
-    "Daily_Notes/230818 Fr.md",
-    "Sundered_Night_Errant/pcs/dumia.md",
-    "Daily_Notes/230816 We.md",
-    "Daily_Notes/230817 Th.md",
-    "Half-Guinea-Press/SafetyTools.md",
-    "Half-Guinea-Press/campe.md",
-    "Sundered_Night_Errant/locations/Mtsen.md",
-    "Daily_Notes/230814 Mo.md",
-    "README.md",
-    "Sundered_Night_Errant/pcs/tk.md",
-    "Sundered_Night_Errant/pcs/kliena.md",
-    "Half-Guinea-Press/Welsh races.md",
+    "Daily_Notes/230820 Su.md",
+    "Daily_Notes/230821 Mo.md",
+    "research/slavic_deities.md",
+    "worldbuilding/worldbuilding.md",
     "Sundered_Night_Errant/Worldbuilding_Questions.md",
-    "Sundered_Night_Errant/locations/annwn.md",
-    "Sundered_Night_Errant/locations/tirnanog.md",
-    "Half-Guinea-Press/gurps_skills.md",
-    "Half-Guinea-Press/Today.md",
-    "Sundered_Night_Errant/Car stuff.md",
-    "skaraˈmuttʃa.md",
-    "Daily_Notes/230815 Tu.md",
+    "Sundered_Night_Errant/index.md",
+    "README.md",
+    "Sundered_Night_Errant/Untitled 1.md",
+    "Sundered_Night_Errant/pcs/cosmos.md",
+    "includes/abbreviations.md",
+    "Sundered_Night_Errant/Untitled.md",
+    "house_rules.md",
+    "Barbarian.md",
     "stuff for my desk or office space.md",
+    "NomadBackground",
     "Mayo-Dimucci Campaign.md",
-    "worldbuilding.md",
-    "How do magical beasts fit in?.md",
-    "Are the laws of nature and physics actually different in this world, or are they the same as in real life?.md",
+    "links.md",
+    "species.md",
+    "hierarch.md",
+    "Sundered_Night_Errant/pcs/dumia.md",
+    "Sundered_Night_Errant/locations/Mtsen.md",
+    "research/WorldBuildingQuestionsMaster.md",
+    "research/occupations_1920_US_census.md",
+    "research/greek_deities.md",
+    "research/SafetyTools.md",
+    "research/average_room_sizes.md",
+    "research/cool_words.md",
+    "Sundered_Night_Errant/Canvas.canvas",
+    "Sundered_Night_Errant/sessions",
+    "Sundered_Night_Errant/pcs",
+    "Sundered_Night_Errant/locations",
+    "Sundered_Night_Errant/Mechanics",
+    "worldbuilding",
+    "Sundered_Night_Errant",
+    "research",
+    "includes",
     "LICENSE"
   ]
 }
