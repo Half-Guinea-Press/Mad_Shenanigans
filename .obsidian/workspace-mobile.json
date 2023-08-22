@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230821 Mo.md",
+                "file": "Daily_Notes/230822 Tu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230821 Mo.md",
+            "file": "Daily_Notes/230822 Tu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230821 Mo.md",
+            "file": "Daily_Notes/230822 Tu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230821 Mo.md"
+            "file": "Daily_Notes/230822 Tu.md"
           }
         }
       }
@@ -133,8 +133,9 @@
   },
   "active": "4382c5bbdaf46684",
   "lastOpenFiles": [
-    "Daily_Notes/230820 Su.md",
     "Daily_Notes/230821 Mo.md",
+    "Daily_Notes/230822 Tu.md",
+    "Daily_Notes/230820 Su.md",
     "research/slavic_deities.md",
     "worldbuilding/worldbuilding.md",
     "Sundered_Night_Errant/Worldbuilding_Questions.md",
@@ -159,7 +160,6 @@
     "research/greek_deities.md",
     "research/SafetyTools.md",
     "research/average_room_sizes.md",
-    "research/cool_words.md",
     "Sundered_Night_Errant/Canvas.canvas",
     "Sundered_Night_Errant/sessions",
     "Sundered_Night_Errant/pcs",
