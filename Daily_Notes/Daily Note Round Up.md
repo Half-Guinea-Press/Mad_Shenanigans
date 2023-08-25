@@ -1,10 +1,5 @@
 #Daily_Note
 
-# 2023-08-25
-- [ ] Uhaul
-- [ ] storage upgrade
-- [ ] Fabula ultima
-- [ ] https://osf.io/4wru2
 # 2023-08-22
 - [ ] Price research storage upgrade
 - [ ] R? How to use legal benefit, call the legal people directly
