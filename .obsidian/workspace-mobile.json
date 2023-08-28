@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbe526e0ddb2ee32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "house_rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230825 Fr.md",
+            "file": "house_rules.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230825 Fr.md",
+            "file": "house_rules.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230825 Fr.md"
+            "file": "house_rules.md"
           }
         }
       }
@@ -131,10 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4382c5bbdaf46684",
+  "active": "bbe526e0ddb2ee32",
   "lastOpenFiles": [
-    "Daily_Notes/230822 Tu.md",
     "Daily_Notes/230825 Fr.md",
+    "Daily_Notes/230822 Tu.md",
     "Daily_Notes/230821 Mo.md",
     "Daily_Notes/230820 Su.md",
     "research/slavic_deities.md",
