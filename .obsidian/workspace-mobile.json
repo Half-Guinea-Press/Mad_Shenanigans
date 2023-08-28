@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a74484d3a31fc57",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230828 Mo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230828 Mo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +132,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Daily_Notes/230828 Mo.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -144,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbe526e0ddb2ee32",
+  "active": "6a74484d3a31fc57",
   "lastOpenFiles": [
-    "house_rules.md",
     "Daily_Notes/230828 Mo.md",
+    "house_rules.md",
     "Daily_Notes/230825 Fr.md",
     "Daily_Notes/230822 Tu.md",
     "Daily_Notes/230821 Mo.md",
