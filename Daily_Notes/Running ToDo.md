@@ -6,7 +6,7 @@
 - [ ] 2023-08-18 Post it dry erase board
 - [ ] 2023-08-18 Wrist watch 
 - [ ] 2023-08-21 When renn fair
-- [x] 2023-08-22 Call healing paws about why they want karma back in 4107775887
+- [ ] 2023-08-22 Call healing paws about why they want karma back in 4107775887
 - [ ] 2023-08-22 Free league ttrpg company 
 - [ ] 2023-08-22 Game idea : shock card
 - [ ] 2023-08-22 How to automate consolidation of daily notes into a rolling file?
@@ -14,6 +14,13 @@
 - [ ] 2023-08-22 R? How to use legal benefit, call the legal people directly
 - [ ] 2023-08-25 Extra space 10251643 door code
 - [ ] 2023-08-25 Uhaul
+- [ ] 2023-08-28 #Autism #R distegulation
+- [ ] 2023-08-28 #I Idea one pager for CIMT projects
+- [ ] 2023-08-28 #I build self diag desktop and use daily notes as input method
+- [ ] 2023-08-28 #R Fitness for adventurers by TikTok story goddess
+- [ ] 2023-08-28 #R Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
+- [ ] 2023-08-28 Clean car
+- [ ]2023-08-28  Birthday wish list New purse Necklace
 - [x] 2023-08-09 401k setup
 - [x] 2023-08-09 Remove resume from job sites
 - [x] 2023-08-10 Laptop for Ally
@@ -32,3 +39,7 @@
 - [x] 2023-08-25 [[Fabula ultima]]
 - [x] 2023-08-25 https://osf.io/4wru2
 - [x] 2023-08-25 storage upgrade
+- [x] 2023-08-28 #G Build a plan for dm bible for campaign [[DM Campaign Codex]]
+- [x] 2023-08-28 #G How to use exhaustion rules better [[Exhaustion from 5e SRD]]
+- [x] 2023-08-28 Bookmark AnyList at work
+- [x] 2023-08-28 H mart run for lunch box
