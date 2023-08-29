@@ -35,12 +35,40 @@
             "id": "6a74484d3a31fc57",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily_Notes/230829.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66c347b877c8b16a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily_Note_Template.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40cdf9aae7ba9ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily_Notes/230829 Tu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,6 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily_Notes/230829 Tu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,6 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily_Notes/230829 Tu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +162,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Daily_Notes/230829 Tu.md"
+          }
         }
       }
     ],
@@ -148,9 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a74484d3a31fc57",
+  "active": "40cdf9aae7ba9ac2",
   "lastOpenFiles": [
+    "Daily_Notes/230829.md",
     "Daily_Notes/230828 Mo.md",
+    "Daily_Notes/230829 Tu.md",
+    "Templates/Daily_Note_Template.md",
     "house_rules.md",
     "Daily_Notes/230825 Fr.md",
     "Daily_Notes/230822 Tu.md",
@@ -174,9 +209,6 @@
     "hierarch.md",
     "Sundered_Night_Errant/pcs/dumia.md",
     "Sundered_Night_Errant/locations/Mtsen.md",
-    "research/WorldBuildingQuestionsMaster.md",
-    "research/occupations_1920_US_census.md",
-    "research/greek_deities.md",
     "Sundered_Night_Errant/Canvas.canvas",
     "Sundered_Night_Errant/sessions",
     "Sundered_Night_Errant/pcs",

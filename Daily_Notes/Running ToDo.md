@@ -6,7 +6,7 @@
 - [ ] 2023-08-18 Post it dry erase board
 - [ ] 2023-08-18 Wrist watch 
 - [ ] 2023-08-21 When renn fair
-- [ ] 2023-08-22 Call healing paws about why they want karma back in 4107775887
+- [x] 2023-08-22 Call healing paws about why they want karma back in 4107775887
 - [ ] 2023-08-22 Free league ttrpg company 
 - [ ] 2023-08-22 Game idea : shock card
 - [ ] 2023-08-22 How to automate consolidation of daily notes into a rolling file?
