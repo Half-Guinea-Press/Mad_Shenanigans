@@ -1,4 +1,4 @@
-Legal Information
+# Legal Information
 =================
 
 Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.0 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a.
@@ -55,7 +55,7 @@ END OF LICENSE
 
 If you note any errors in this document, please let us know by emailing [askdnd@wizards.com](mailto:askdnd@wizards.com)
 
-Races
+# Races
 =====
 
 ### Racial Traits
@@ -90,7 +90,7 @@ By virtue of your race, your character can speak, read, and write certain langua
 
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world.
 
-Dwarf
+## Dwarf
 -----
 
 ### Dwarf Traits
@@ -127,7 +127,7 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 ***Dwarven Toughness.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
-Elf
+## Elf
 ---
 
 ### Elf Traits
@@ -168,7 +168,7 @@ As a high elf, you have a keen mind and a mastery of at least the basics of magi
 
 ***Extra Language.*** You can speak, read, and write one extra language of your choice.
 
-Halfling
+## Halfling
 --------
 
 ### Halfling Traits
@@ -203,7 +203,7 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 ***Naturally Stealthy.*** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
-Human
+## Human
 -----
 
 ### Human Traits
@@ -222,7 +222,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 ***Languages.*** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
-Dragonborn
+## Dragonborn
 ----------
 
 ### Dragonborn Traits
@@ -266,7 +266,7 @@ After you use your breath weapon, you can’t use it again until you complete a 
 
 ***Languages.*** You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
 
-Gnome
+## Gnome
 -----
 
 ### Gnome Traits
@@ -305,7 +305,7 @@ When you create a device, choose one of the following options:
 - *Fire Starter.* The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
 - *Music Box.* When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
 
-Half-Elf
+## Half-Elf
 --------
 
 ### Half-Elf Traits
@@ -331,7 +331,7 @@ followers. They chafe at rules, resent others’ demands, and sometimes prove un
 
 ***Languages.*** You can speak, read, and write Common, Elvish, and one extra language of your choice.
 
-Half-Orc
+## Half-Orc
 --------
 
 ### Half-Orc Traits
@@ -358,7 +358,7 @@ Your half-orc character has certain traits deriving from your orc ancestry.
 
 ***Languages.*** You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
 
-Tiefling
+## Tiefling
 --------
 
 ### Tiefling Traits
@@ -383,7 +383,10 @@ Tieflings share certain racial traits as a result of their infernal descent.
 
 ***Languages.*** You can speak, read, and write Common and Infernal.
 
-Barbarian
+# Classes
+
+
+## Barbarian
 =========
 
 Class Features
@@ -542,7 +545,7 @@ If the creature succeeds on its saving throw, you can’t use this feature on th
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
-Bard
+## Bard
 ====
 
 Class Features
@@ -724,7 +727,7 @@ At 6th level, you learn two spells of your choice from any class. A spell you ch
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
 
-Cleric
+## Cleric
 ======
 
 Class Features
@@ -920,7 +923,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
-Druid
+## Druid
 =====
 
 Class Features
@@ -1177,7 +1180,7 @@ Druids from regions that lack the plants described here have chosen other plants
 
 Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
 
-Fighter
+## Fighter
 =======
 
 Class Features
@@ -1329,7 +1332,7 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.
 
-Monk
+## Monk
 ====
 
 Class Features
@@ -1532,7 +1535,7 @@ At 17th level, you gain the ability to set up lethal vibrations in someone’s b
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
-Paladin
+## Paladin
 =======
 
 Class Features
@@ -1792,7 +1795,7 @@ A paladin who has broken a vow typically seeks absolution from a cleric who shar
 
 If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another.
 
-Ranger
+## Ranger
 ======
 
 Class Features
@@ -2014,7 +2017,7 @@ At 15th level, you gain one of the following features of your choice.
 
 ***Uncanny Dodge.*** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
 
-Rogue
+## Rogue
 =====
 
 Class Features
@@ -2168,7 +2171,7 @@ By 13th level, you have learned enough about the workings of magic that you can 
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
 
-Sorcerer
+## Sorcerer
 ========
 
 Class Features
@@ -2401,7 +2404,7 @@ You can’t manifest your wings while wearing armor unless the armor is made to 
 
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
-Warlock
+## Warlock
 =======
 
 Class Features
@@ -2784,7 +2787,7 @@ Each Pact Boon option produces a special creature or an object that reflects you
 
 ***Pact of the Tome.*** Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
 
-Wizard
+## Wizard
 ======
 
 Class Features
@@ -3002,7 +3005,7 @@ The Character Advancement table summarizes the XP you need to advance in levels 
 | 305,000           | 19    | +6                |
 | 355,000           | 20    | +6                |
 
-Multiclassing
+## Multiclassing
 -------------
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
@@ -3124,7 +3127,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 | 19th  | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
-Alignment
+# Alignment
 ---------
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
@@ -3150,7 +3153,7 @@ Alignment is an essential part of the nature of celestials and fiends. A devil d
 
 Most creatures that lack the capacity for rational thought do not have alignments—they are **unaligned**. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
-Languages
+# Languages
 ---------
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
@@ -3185,7 +3188,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Sylvan      | Fey creatures       | Elvish    |
 | Undercommon | Underworld traders  | Elvish    |
 
-Inspiration
+# Inspiration
 -----------
 
 Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
@@ -3202,7 +3205,7 @@ If you have inspiration, you can expend it when you make an attack roll, saving 
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-Backgrounds
+# Backgrounds
 -----------
 
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
@@ -3295,7 +3298,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 5  | I am suspicious of strangers and expect the worst of them.                                    |
 | 6  | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |
 
-Equipment
+# Equipment
 =========
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
@@ -3560,7 +3563,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Longbow         | 50 gp | 1d8 piercing  |  2 lb.  | Ammunition (range 150/600), heavy, two-handed          |
 | Net             | 1 gp  | —             |  3 lb.  | Special, thrown (range 5/15)                           |
 
-Adventuring Gear
+# Adventuring Gear
 ----------------
 
 This section describes items that have special rules or require further explanation.
@@ -3789,7 +3792,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 ***Scholar’s Pack (40 gp).*** Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
 
-Tools
+# Tools
 -----
 
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver’s tools, or a Strength check to make something out of particularly hard wood.
@@ -3858,7 +3861,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 ***Thieves’ Tools.*** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
 
-Mounts and Vehicles
+# Mounts and Vehicles
 -------------------
 
 A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s speed and base carrying capacity.
@@ -3919,7 +3922,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Sailing ship | 10,000 gp | 2 mph  |
 | Warship      | 25,000 gp | 2½ mph |
 
-Trade Goods
+# Trade Goods
 -----------
 
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
@@ -4052,7 +4055,7 @@ People who are able to cast spells don’t fall into the category of ordinary hi
 
 Hiring someone to cast a relatively common spell of 1st or 2nd level, such as *cure wounds* or *identify*, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
 
-Feats
+# Feats
 =====
 
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
@@ -4069,7 +4072,7 @@ You’ve developed the skills necessary to hold your own in close-quarters grapp
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
-Using Ability Scores
+# Using Ability Scores
 ====================
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
@@ -4090,7 +4093,7 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
 
 Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
-Ability Scores and Modifiers
+# Ability Scores and Modifiers
 ----------------------------
 
 | Score | Modifier |
@@ -4116,7 +4119,7 @@ To determine an ability modifier without consulting the table, subtract 10 from 
 
 Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
 
-Advantage and Disadvantage
+# Advantage and Disadvantage
 --------------------------
 
 Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
@@ -4131,7 +4134,7 @@ You usually gain advantage or disadvantage through the use of special abilities,
 
 GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
-Proficiency Bonus
+# Proficiency Bonus
 -----------------
 
 Characters have a proficiency bonus determined by level. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
@@ -4144,7 +4147,7 @@ By the same token, if a feature or effect allows you to multiply your proficienc
 
 In general, you don’t multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
 
-Ability Checks
+# Ability Checks
 --------------
 
 An ability check tests a character’s or monster’s innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
@@ -4246,7 +4249,7 @@ To make a group ability check, everyone in the group makes the ability check. If
 
 Group checks don’t come up very often, and they’re most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
 
-Using Each Ability
+# Using Each Ability
 ------------------
 
 Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
@@ -4449,7 +4452,7 @@ A Charisma check might arise when you try to influence or entertain others, when
 
 Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
 
-Saving Throws
+# Saving Throws
 -------------
 
 A saving throw—also called a save—represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don’t normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
@@ -4464,10 +4467,10 @@ The Difficulty Class for a saving throw is determined by the effect that causes 
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
-Adventuring
+# Adventuring
 ===========
 
-Time
+## Time
 ----
 
 In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers’ movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
@@ -4480,7 +4483,7 @@ Following the road from Baldur’s Gate to Waterdeep, the adventurers spend four
 
 In combat and other fast-paced situations, the game relies on **rounds**, a 6-second span of time.
 
-Movement
+## Movement
 --------
 
 Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope—all sorts of movement play a key role in fantasy gaming adventures.
@@ -4545,7 +4548,7 @@ When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrob
 
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 
-The Environment
+## The Environment
 ---------------
 
 By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places.
@@ -4622,7 +4625,7 @@ Characters can also damage objects with their weapons and spells. Objects are im
 
 A character can also attempt a Strength check to break an object. The GM sets the DC for any such check.
 
-Resting
+## Resting
 -------
 
 Heroic though they might be, adventurers can’t spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
@@ -4643,7 +4646,7 @@ At the end of a long rest, a character regains all lost hit points. The characte
 
 A character can’t benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
 
-Between Adventures
+## Between Adventures
 ------------------
 
 Between trips to dungeons and battles against ancient evils, adventurers need time to rest, recuperate, and prepare for their next adventure. Many adventurers also use this time to perform other tasks, such as crafting arms and armor, performing research, or spending their hard-earned gold.
@@ -4704,10 +4707,10 @@ First, you must find an instructor willing to teach you. The GM determines how l
 
 The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
 
-Combat
+# Combat
 ======
 
-The Order of Combat
+## The Order of Combat
 -------------------
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A
