@@ -1,5 +1,8 @@
 #ToDo
 # Running Todo List
+#Daily_Note
+- [ ] 2023-08-29 #G stealth checks give amount of time before problems start or potential complications later
+- [ ] 2023-08-29 #G leveling health potion
 - [ ] 2023-08-14 https://acqnotes.com/acqnote/acquisitions/systems-engineering-plan
 - [ ] 2023-08-16 student loan mad login
 - [ ] 2023-08-18 Grammar girl book to work 
