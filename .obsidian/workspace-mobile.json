@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230829 Tu.md",
+                "file": "Daily_Notes/Running ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230829 Tu.md",
+            "file": "Daily_Notes/Running ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230829 Tu.md",
+            "file": "Daily_Notes/Running ToDo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230829 Tu.md"
+            "file": "Daily_Notes/Running ToDo.md"
           }
         }
       }
@@ -182,6 +182,7 @@
   },
   "active": "40cdf9aae7ba9ac2",
   "lastOpenFiles": [
+    "Daily_Notes/230830.md",
     "Daily_Notes/230829.md",
     "Daily_Notes/230828 Mo.md",
     "Daily_Notes/230829 Tu.md",
@@ -208,7 +209,6 @@
     "species.md",
     "hierarch.md",
     "Sundered_Night_Errant/pcs/dumia.md",
-    "Sundered_Night_Errant/locations/Mtsen.md",
     "Sundered_Night_Errant/Canvas.canvas",
     "Sundered_Night_Errant/sessions",
     "Sundered_Night_Errant/pcs",
