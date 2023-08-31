@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230825 Fr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbe526e0ddb2ee32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily_Notes/230828 Mo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a74484d3a31fc57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily_Notes/230829.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66c347b877c8b16a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily_Note_Template.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40cdf9aae7ba9ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily_Notes/Running ToDo.md",
+                "file": "Daily_Notes/230831.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#research",
+            "query": "tag:#Daily_Note",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -134,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/Running ToDo.md",
+            "file": "Daily_Notes/230831.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/Running ToDo.md",
+            "file": "Daily_Notes/230831.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/Running ToDo.md"
+            "file": "Daily_Notes/230831.md"
           }
         }
       }
@@ -180,15 +131,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40cdf9aae7ba9ac2",
+  "active": "4382c5bbdaf46684",
   "lastOpenFiles": [
-    "Daily_Notes/230830.md",
-    "Daily_Notes/230829.md",
-    "Daily_Notes/230828 Mo.md",
-    "Daily_Notes/230829 Tu.md",
-    "Templates/Daily_Note_Template.md",
-    "house_rules.md",
+    "Daily_Notes/Running ToDo.md",
+    "leveling health potion.md",
+    "Daily_Notes/230831.md",
     "Daily_Notes/230825 Fr.md",
+    "Daily_Notes/230828 Mo.md",
+    "Daily_Notes/230829.md",
+    "Templates/Daily_Note_Template.md",
+    "Daily_Notes/230830.md",
+    "Daily_Notes/230829 Tu.md",
+    "house_rules.md",
     "Daily_Notes/230822 Tu.md",
     "Daily_Notes/230821 Mo.md",
     "Daily_Notes/230820 Su.md",
@@ -206,9 +160,6 @@
     "NomadBackground",
     "Mayo-Dimucci Campaign.md",
     "links.md",
-    "species.md",
-    "hierarch.md",
-    "Sundered_Night_Errant/pcs/dumia.md",
     "Sundered_Night_Errant/Canvas.canvas",
     "Sundered_Night_Errant/sessions",
     "Sundered_Night_Errant/pcs",

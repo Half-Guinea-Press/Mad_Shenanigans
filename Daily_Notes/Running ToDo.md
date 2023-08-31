@@ -1,7 +1,7 @@
 #ToDo
 # Running Todo List
 - [ ] 2023-08-29 #G stealth checks give amount of time before problems start or potential complications later
-- [ ] 2023-08-29 #G leveling health potion
+- [ ] 2023-08-29 #G [[leveling health potion]]
 - [ ] 2023-08-28 Clean car
 - [ ] 2023-08-28 #R Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
 - [ ] 2023-08-28 #R Fitness for adventurers by TikTok story goddess
