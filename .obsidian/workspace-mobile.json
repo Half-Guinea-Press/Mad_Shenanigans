@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230831.md",
+                "file": "Daily_Notes/230901.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230831.md",
+            "file": "Daily_Notes/230901.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230831.md",
+            "file": "Daily_Notes/230901.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230831.md"
+            "file": "Daily_Notes/230901.md"
           }
         }
       }
@@ -133,9 +133,10 @@
   },
   "active": "4382c5bbdaf46684",
   "lastOpenFiles": [
+    "Daily_Notes/230831.md",
+    "Daily_Notes/230901.md",
     "Daily_Notes/Running ToDo.md",
     "leveling health potion.md",
-    "Daily_Notes/230831.md",
     "Daily_Notes/230825 Fr.md",
     "Daily_Notes/230828 Mo.md",
     "Daily_Notes/230829.md",
@@ -159,7 +160,6 @@
     "stuff for my desk or office space.md",
     "NomadBackground",
     "Mayo-Dimucci Campaign.md",
-    "links.md",
     "Sundered_Night_Errant/Canvas.canvas",
     "Sundered_Night_Errant/sessions",
     "Sundered_Night_Errant/pcs",
