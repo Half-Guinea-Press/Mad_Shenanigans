@@ -1,18 +1,18 @@
 #ToDo
 # Running Todo List
-- [ ] 2023-08-29 #G stealth checks give amount of time before problems start or potential complications later
-- [ ] 2023-08-29 #G [[leveling health potion]]
-- [ ] 2023-08-28 Clean car
-- [ ] 2023-08-28 #R Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
+ - [ ] 2023-08-29 #G [[stealth checks give amount of time before problems start or potential complications later]]
+- [x] 2023-08-29 #G [[leveling health potion]]
+- [x] 2023-08-28 Clean car
+- [x] 2023-08-28 #R Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
 - [ ] 2023-08-28 #R Fitness for adventurers by TikTok story goddess
 - [ ] 2023-08-28 #I build self diag desktop and use daily notes as input method
 - [ ] 2023-08-28 #I Idea one pager for CIMT projects
-- [ ] 2023-08-28 #Autism #R distegulation
-- [ ] 2023-08-28  Birthday wish list New purse Necklace
+- [ ] 2023-08-28 #Autism #R disregulation
+- [x] 2023-08-28  Birthday wish list New purse Necklace
 - [ ] 2023-08-25 Uhaul
 - [ ] 2023-08-25 Extra space 10251643 door code
 - [ ] 2023-08-22 Free league ttrpg company 
-- [ ] 2023-08-22 Call healing paws about why they want karma back in 4107775887
+- [x] 2023-08-22 Call healing paws about why they want karma back in 4107775887
 - [ ] 2023-08-22 #R QR codes for game cards
 - [ ] 2023-08-22 #R How to use legal benefit, call the legal people directly
 - [ ] 2023-08-22 #R How to automate consolidation of daily notes into a rolling file?

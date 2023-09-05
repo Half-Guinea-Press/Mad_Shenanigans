@@ -12,6 +12,7 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
+    "note-composer:split-file",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],

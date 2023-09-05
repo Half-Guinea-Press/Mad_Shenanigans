@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/230901.md",
+                "file": "Daily_Notes/230905.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Daily_Note",
+            "query": "tag:#research",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/230901.md",
+            "file": "Daily_Notes/230905.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/230901.md",
+            "file": "Daily_Notes/230905.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/230901.md"
+            "file": "Daily_Notes/230905.md"
           }
         }
       }
@@ -133,42 +133,42 @@
   },
   "active": "4382c5bbdaf46684",
   "lastOpenFiles": [
-    "Daily_Notes/230831.md",
-    "Daily_Notes/230901.md",
-    "Daily_Notes/Running ToDo.md",
-    "leveling health potion.md",
-    "Daily_Notes/230825 Fr.md",
-    "Daily_Notes/230828 Mo.md",
-    "Daily_Notes/230829.md",
-    "Templates/Daily_Note_Template.md",
+    "Daily_Notes/230903 Su.md",
+    "Daily_Notes/230905.md",
     "Daily_Notes/230830.md",
-    "Daily_Notes/230829 Tu.md",
-    "house_rules.md",
-    "Daily_Notes/230822 Tu.md",
-    "Daily_Notes/230821 Mo.md",
-    "Daily_Notes/230820 Su.md",
-    "research/slavic_deities.md",
-    "worldbuilding/worldbuilding.md",
-    "Sundered_Night_Errant/Worldbuilding_Questions.md",
-    "Sundered_Night_Errant/index.md",
-    "README.md",
-    "Sundered_Night_Errant/Untitled 1.md",
-    "Sundered_Night_Errant/pcs/cosmos.md",
-    "includes/abbreviations.md",
-    "Sundered_Night_Errant/Untitled.md",
-    "Barbarian.md",
-    "stuff for my desk or office space.md",
+    "Magic System.md",
+    "Daily_Notes/230825 Fr.md",
+    "research/alchemy.md",
+    "Daily_Notes/Old_Daily_Notes/230814 Mo.md",
+    "Fabula ultima,md",
+    "Campaign/DM Campaign Codex.md",
+    "mechanics/SRD5e/dnd5esrdTOC.md",
+    "mechanics/dnd5esrdmain.md",
+    "Daily_Notes/Old_Daily_Notes/230822 Tu.md",
+    "Daily_Notes/Old_Daily_Notes/230821 Mo.md",
+    "mechanics/SRD5e/Legal Information.md",
+    "Daily_Notes/Old_Daily_Notes/230815 Tu.md",
+    "Daily_Notes/Old_Daily_Notes/230811 Fr.md",
+    "Daily_Notes/Old_Daily_Notes/230816 We.md",
+    "research/dnd5esrd.md",
+    "Daily_Notes/Old_Daily_Notes/230809 We.md",
+    "local ttrpg store.md",
+    "Daily_Notes/Old_Daily_Notes/230812 Sa.md",
+    "Daily_Notes/230902.md",
+    "Daily_Notes/Old_Daily_Notes/230818 Fr.md",
+    "Daily_Notes/230828 Mo.md",
+    "Daily_Notes/230901.md",
+    "Daily_Notes/Old_Daily_Notes/230810 Th.md",
+    "Daily_Notes/230829.md",
+    "locations",
+    "mechanics/SRD5e",
+    "Daily_Notes/Old_Daily_Notes",
+    "pcs",
+    "Campaign",
+    "sessions",
+    "mechanics",
     "NomadBackground",
-    "Mayo-Dimucci Campaign.md",
     "Sundered_Night_Errant/Canvas.canvas",
-    "Sundered_Night_Errant/sessions",
-    "Sundered_Night_Errant/pcs",
-    "Sundered_Night_Errant/locations",
-    "Sundered_Night_Errant/Mechanics",
-    "worldbuilding",
-    "Sundered_Night_Errant",
-    "research",
-    "includes",
-    "LICENSE"
+    "Sundered_Night_Errant/sessions"
   ]
 }
