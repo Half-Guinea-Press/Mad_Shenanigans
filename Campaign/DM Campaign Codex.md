@@ -1,7 +1,8 @@
 # The DM Campaign Codex
 ## Campaign Scene Setter
 ## Campaign Story: Up To Now
-### Session Zero
+### Sessions
+#### Session 0
 ## Campaign Setting
 ## Player Characters
 ## Campaign Mechanics
