@@ -1,3 +1,6 @@
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/siberian-mythology
+https://www.rbth.com/travel/2017/01/17/5-tales-of-siberias-indigenous-peoples_682578
+https://en.wikipedia.org/wiki/Cambion
 dndnames.com
 primitivetechnology.wordpress.com
 app.diagrams.net
