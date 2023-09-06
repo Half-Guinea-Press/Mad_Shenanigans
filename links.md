@@ -1,13 +1,15 @@
-		dndnames.com
-		primitivetechnology.wordpress.com
-		app.diagrams.net
-		yworks.com/products/yed
-		sketchgoblin.co.nz
-		sketchbook project
-		curiositystream.com/talefoundary
-		gametogrow.org
-		foundry10.org
-  
+dndnames.com
+primitivetechnology.wordpress.com
+app.diagrams.net
+yworks.com/products/yed
+sketchgoblin.co.nz
+sketchbook project
+curiositystream.com/talefoundary
+gametogrow.org
+foundry10.org
+https://halflinghobbies.com/complete-list-of-tools-dd-5e/
+https://www.plot-generator.org.uk/create.php?type=9
+https://halflinghobbies.com/how-to-homebrew-for-new-dungeon-masters/
 https://en.wikipedia.org/wiki/Glycon
 
 https://www.euratlas.net/history/europe/1200/index.html
