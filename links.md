@@ -1,4 +1,13 @@
-
+		dndnames.com
+		primitivetechnology.wordpress.com
+		app.diagrams.net
+		yworks.com/products/yed
+		sketchgoblin.co.nz
+		sketchbook project
+		curiositystream.com/talefoundary
+		gametogrow.org
+		foundry10.org
+  
 https://en.wikipedia.org/wiki/Glycon
 
 https://www.euratlas.net/history/europe/1200/index.html
@@ -91,22 +100,4 @@ https://squidfunk.github.io/mkdocs-material/reference/
 - https://mythcreants.com/blog/six-fantastic-roleplaying-mechanics/
 - ourproject.org
 - shopmoment.com
-- 
-https://en.wikipedia.org/wiki/Glycon
-
-https://www.euratlas.net/history/europe/1200/index.html
-
-https://en.wikipedia.org/wiki/Isatis_tinctoria
-
-http://www.bevanthomas.ca/archives/622
-
-http://www.castlewales.com/warfare.html
-
-https://en.wikipedia.org/wiki/Welsh_mythology
-
-https://www.twinkl.com/teaching-wiki/famous-welsh-heroes
-
-https://www.dandwiki.com/wiki/Vistani_(5e_Race_Variant)
-https://www.chanty.com/blog/discord-vs-slack/
-
-https://en.wikipedia.org/wiki/Arawn
+  
