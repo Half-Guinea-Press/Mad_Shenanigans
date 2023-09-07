@@ -7,3 +7,4 @@ Plan:
 
 Quick Links:
 [[DM Campaign Codex]]
+https://help.obsidian.md/Home
