@@ -1,18 +1,29 @@
 #ToDo
 # Running Todo List
- - [ ] 2023-08-29 #G [[stealth checks give amount of time before problems start or potential complications later]]
-- [x] 2023-08-29 #G [[leveling health potion]]
-- [x] 2023-08-28 Clean car
-- [x] 2023-08-28 #R Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
+- [ ] 2023-09-07 Edfinancial login information for Elizabeth
+- [ ] 2023-09-07 Develop mtsen location #G 
+- [ ] 2023-09-07 #R planegea
+- [ ] 2023-09-07 #R pikeresque 
+- [ ] 2023-09-07 #R how to account for Labor Day on hours
+- [ ] 2023-09-07 #R game and comic cons local to here or day travel distance
+- [ ] 2023-09-07 #R chapbook
+- [ ] 2023-09-07 #R all rolled up website
+- [ ] 2023-09-06 https://www.drivethrurpg.com/m/product/448975
+- [ ] 2023-09-05 Testing and evaluation script format #R 
+- [ ] 2023-09-01 Setup family discord server
+- [ ] 2023-09-01 Setup family discord server
+- [ ] 2023-09-01 Find out if discord is accessible at work
+- [ ] 2023-09-01 Find out if discord is accessible at work
+- [ ] 2023-08-31 #G signature character item as a leveling item
+- [ ] 2023-08-31 #G passive skills
+- [ ] 2023-08-29 #G [[stealth checks give amount of time before problems start or potential complications later]]
 - [ ] 2023-08-28 #R Fitness for adventurers by TikTok story goddess
 - [ ] 2023-08-28 #I build self diag desktop and use daily notes as input method
 - [ ] 2023-08-28 #I Idea one pager for CIMT projects
 - [ ] 2023-08-28 #Autism #R disregulation
-- [x] 2023-08-28  Birthday wish list New purse Necklace
 - [ ] 2023-08-25 Uhaul
 - [ ] 2023-08-25 Extra space 10251643 door code
 - [ ] 2023-08-22 Free league ttrpg company 
-- [x] 2023-08-22 Call healing paws about why they want karma back in 4107775887
 - [ ] 2023-08-22 #R QR codes for game cards
 - [ ] 2023-08-22 #R How to use legal benefit, call the legal people directly
 - [ ] 2023-08-22 #R How to automate consolidation of daily notes into a rolling file?
@@ -24,26 +35,32 @@
 - [ ] 2023-08-16 student loan mad login
 - [ ] 2023-08-14 https://acqnotes.com/acqnote/acquisitions/systems-engineering-plan
 
+
 # Done
-- [x] 2023-08-09 401k setup
-- [x] 2023-08-09 Remove resume from job sites
-- [x] 2023-08-10 Laptop for Ally
-- [x] 2023-08-11 Ask security about cover sheets and stickers
-- [x] 2023-08-11 Two holes punch
-- [x] 2023-08-14 2 hole punch for desk
-- [x] 2023-08-14 Child support call
-- [x] 2023-08-14 No stupid question podcast site for citations 
-- [x] 2023-08-14 Talk to bj
-- [x] 2023-08-15 Child support abatement 
-- [x] 2023-08-16 Mac for ally
-- [x] 2023-08-17 Pickup Mac book
-- [x] 2023-08-22 Dollar shave club
-- [x] 2023-08-22 Find [[local ttrpg store]] with game space 
-- [x] 2023-08-22 Price research storage upgrade
-- [x] 2023-08-25 [[Fabula ultima]]
-- [x] 2023-08-25 https://osf.io/4wru2
-- [x] 2023-08-25 storage upgrade
-- [x] 2023-08-28 #G Build a plan for dm bible for campaign [[DM Campaign Codex]]
-- [x] 2023-08-28 #G How to use exhaustion rules better [[Exhaustion from 5e SRD]]
-- [x] 2023-08-28 Bookmark AnyList at work
+- [x] 2023-08-29 #G [[leveling health potion]]
 - [x] 2023-08-28 H mart run for lunch box
+- [x] 2023-08-28 Clean car
+- [x] 2023-08-28 Bookmark AnyList at work
+- [x] 2023-08-28 #R Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
+- [x] 2023-08-28 #G How to use exhaustion rules better [[Exhaustion from 5e SRD]]
+- [x] 2023-08-28 #G Build a plan for dm bible for campaign [[DM Campaign Codex]]
+- [x] 2023-08-28  Birthday wish list New purse Necklace
+- [x] 2023-08-25 storage upgrade
+- [x] 2023-08-25 https://osf.io/4wru2
+- [x] 2023-08-25 [[Fabula ultima]]
+- [x] 2023-08-22 Price research storage upgrade
+- [x] 2023-08-22 Find [[local ttrpg store]] with game space 
+- [x] 2023-08-22 Dollar shave club
+- [x] 2023-08-22 Call healing paws about why they want karma back in 4107775887
+- [x] 2023-08-17 Pickup Mac book
+- [x] 2023-08-16 Mac for ally
+- [x] 2023-08-15 Child support abatement 
+- [x] 2023-08-14 Talk to bj
+- [x] 2023-08-14 No stupid question podcast site for citations 
+- [x] 2023-08-14 Child support call
+- [x] 2023-08-14 2 hole punch for desk
+- [x] 2023-08-11 Two holes punch
+- [x] 2023-08-11 Ask security about cover sheets and stickers
+- [x] 2023-08-10 Laptop for Ally
+- [x] 2023-08-09 Remove resume from job sites
+- [x] 2023-08-09 401k setup
