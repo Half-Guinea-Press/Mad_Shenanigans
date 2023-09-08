@@ -93,5 +93,5 @@
 - https://rpg.stackexchange.com/questions/20107/common-dice-mechanics
 - https://medium.com/ironsource-levelup/secret-power-of-rpg-mechanics-b618c09556d8
 - https://mythcreants.com/blog/six-fantastic-roleplaying-mechanics/
-- ourproject.org
-- shopmoment.com
+- https://www.shopmoment.com
+- https://ourproject.org/
