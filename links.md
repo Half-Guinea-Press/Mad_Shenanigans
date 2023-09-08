@@ -10,7 +10,6 @@
 - http://app.diagrams.net
 - http://yworks.com/products/yed
 - http://sketchgoblin.co.nz
-- http://sketchbook project
 - http://curiositystream.com/talefoundary
 - http://gametogrow.org
 - http://foundry10.org
