@@ -36,7 +36,6 @@
 - https://www.wizardslaboratory.com/running-escape-the-oubliette/
 - https://www.goldstartool.com/
 - https://www.wawak.com/
-- https://www.ningbags.com/
 - https://moremeknow.com/
 - https://sophiehoulden.com/twine/writingfantasy_guide.html
 - http://www.mcdemarco.net/tools/scree/prepub/
