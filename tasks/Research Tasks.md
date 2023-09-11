@@ -30,7 +30,7 @@
 - [ ] CI/CD
 - [ ] AGILE program management
 - [ ] PMP
-- [ ] IOC vs FOC
+- [x] [[IOC vs FOC]]
 - [ ] Technical Debt
 - [ ] DOCKER
 - [ ] Kubernetes (CK8S)
