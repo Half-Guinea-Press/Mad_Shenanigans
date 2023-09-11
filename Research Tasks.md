@@ -1,5 +1,6 @@
 #R
 # Research Tasks
+## To Research
 - [ ] planegea
 - [ ] how to account for Labor Day on hours
 - [ ] game and comic cons local to here or day travel distance
@@ -8,6 +9,46 @@
 - [ ] QR codes for game cards
 - [ ] How to use legal benefit, call the legal people directly
 - [ ] How to automate consolidation of daily notes into a rolling file?
+- [ ] DevOps
+- [ ] Cameo System Modeler
+- [ ] IEEE 15288
+- [ ] Scaled Agile Framework SAFe
+- [ ] Agile vs SCRUM
+- [ ] Version control standards
+- [ ] JIRA: stories, epics, etc.
+- [ ] Code Refactoring
+- [ ] AWS
+- [ ] Apachi NiFi
+- [ ] GIT: releases & branching strategies
+- [ ] Agile "ceremonies"
+- [ ] Automated Test Harness
+- [ ] SCRUM cert
+- [ ] Minimal viable product vs prototype
+- [ ] Transition & decommision
+- [ ] FLASK
+- [ ] SCRUM Lexicon
+- [ ] CI/CD
+- [ ] AGILE program management
+- [ ] PMP
+- [ ] IOC vs FOC
+- [ ] Technical Debt
+- [ ] DOCKER
+- [ ] Kubernetes (CK8S)
+- [ ] Atlassian Bamboo
+- [ ] Containerization
+- [ ] D3 Force Directed Graph
+- [ ] WebCola
+- [ ] Owlbear Rodeo
+- [ ] Eclipse IDE
+- [ ] Hidden Door AI driven narrative game
+- [ ] SPLUNK
+- [ ] Ansible vs. Kubernetes
+- [ ] Infrastructure as Code (IaC)
+- [ ] Podman (part of RedHat)
+- [ ] TTRPG Vaessen by free league
+- [ ] ITREVOLUTION.com
+
+## Done
 - [x] all rolled up website
-- [x] pikeresque 
+- [x] pikeresque [[Picaresque novel]]
 - [x] Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
