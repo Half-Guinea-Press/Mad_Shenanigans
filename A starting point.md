@@ -9,4 +9,6 @@ It is a place to hang things that need to be worked on, researched, refined, and
 - [[DM Campaign Codex]]
 - [[Player Campaign Codex]]
 - [[Game Tasks]]
+- [[Research Tasks]]
+- [[Running ToDo]]
 - https://help.obsidian.md/Home
