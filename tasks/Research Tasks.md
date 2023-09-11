@@ -11,7 +11,7 @@
 - [ ] How to automate consolidation of daily notes into a rolling file?
 - [ ] DevOps
 - [ ] Cameo System Modeler
-- [ ] IEEE 15288
+- [x] IEEE 15288
 - [ ] Scaled Agile Framework SAFe
 - [ ] Agile vs SCRUM
 - [ ] Version control standards
