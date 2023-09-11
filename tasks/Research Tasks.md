@@ -1,7 +1,7 @@
 #R
 # Research Tasks
 ## To Research
-- [ ] planegea https://www.atlas-games.com/planegea
+- [x] planegea https://www.atlas-games.com/planegea [[Planegea]]
 - [ ] how to account for Labor Day on hours
 - [ ] game and comic cons local to here or day travel distance
 - [ ] chapbook
