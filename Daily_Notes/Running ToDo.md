@@ -1,13 +1,11 @@
 #ToDo
 # Running Todo List
 - [ ] 2023-09-07 Edfinancial login information for Elizabeth
-- [ ] 2023-09-07 Develop mtsen location #G 
+- [ ] 2023-09-07 #G Develop mtsen location
 - [ ] 2023-09-07 #R planegea
-- [ ] 2023-09-07 #R pikeresque 
 - [ ] 2023-09-07 #R how to account for Labor Day on hours
 - [ ] 2023-09-07 #R game and comic cons local to here or day travel distance
 - [ ] 2023-09-07 #R chapbook
-- [ ] 2023-09-07 #R all rolled up website
 - [ ] 2023-09-06 https://www.drivethrurpg.com/m/product/448975
 - [ ] 2023-09-05 Testing and evaluation script format #R 
 - [ ] 2023-09-01 Setup family discord server
@@ -35,8 +33,9 @@
 - [ ] 2023-08-16 student loan mad login
 - [ ] 2023-08-14 https://acqnotes.com/acqnote/acquisitions/systems-engineering-plan
 
-
 # Done
+- [x] 2023-09-07 #R all rolled up website
+- [x] 2023-09-07 #R pikeresque 
 - [x] 2023-08-29 #G [[leveling health potion]]
 - [x] 2023-08-28 H mart run for lunch box
 - [x] 2023-08-28 Clean car
