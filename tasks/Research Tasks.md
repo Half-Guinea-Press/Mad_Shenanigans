@@ -31,7 +31,7 @@
 - [ ] AGILE program management
 - [ ] PMP
 - [x] [[IOC vs FOC]]
-- [ ] Technical Debt
+- [x] [[Technical Debt]]
 - [ ] DOCKER
 - [ ] Kubernetes (CK8S)
 - [ ] Atlassian Bamboo
