@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/2309 36.md",
+                "file": "Templates/Daily_Note_Template.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16103267c254235d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d5221a8a94e397f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily_Notes/2309 37.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "4ac76c3457d60c30",
@@ -85,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/2309 36.md",
+            "file": "Daily_Notes/2309 37.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/2309 36.md",
+            "file": "Daily_Notes/2309 37.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/2309 36.md"
+            "file": "Daily_Notes/2309 37.md"
           }
         }
       }
@@ -131,11 +152,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4382c5bbdaf46684",
+  "active": "5d5221a8a94e397f",
   "lastOpenFiles": [
-    "Daily_Notes/2309 36.md",
-    "Daily_Notes/230908.md",
+    "TTRPG/Campaign/DM Campaign Codex.md",
+    "Daily_Notes/2309 37.md",
+    "A starting point.md",
+    "Notes from KARTAS podcast.md",
     "Daily_Notes/230907.md",
+    "Daily_Notes/2309 36.md",
+    "Player Campaign Codex.md",
+    "Untitled.md",
+    "Templates/Daily_Note_Template.md",
+    "Daily_Notes/230908.md",
     "Daily_Notes/230906.md",
     "Daily_Notes/230905.md",
     "Daily_Notes/230903 Su.md",
@@ -153,13 +181,6 @@
     "mechanics/SRD5e/Legal Information.md",
     "Daily_Notes/Old_Daily_Notes/230815 Tu.md",
     "Daily_Notes/Old_Daily_Notes/230811 Fr.md",
-    "Daily_Notes/Old_Daily_Notes/230816 We.md",
-    "research/dnd5esrd.md",
-    "Daily_Notes/Old_Daily_Notes/230809 We.md",
-    "local ttrpg store.md",
-    "Daily_Notes/Old_Daily_Notes/230812 Sa.md",
-    "Daily_Notes/230902.md",
-    "Daily_Notes/Old_Daily_Notes/230818 Fr.md",
     "locations",
     "mechanics/SRD5e",
     "Daily_Notes/Old_Daily_Notes",

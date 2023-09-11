@@ -5,4 +5,6 @@
 #### Session 0
 ## Campaign Setting
 ## Player Characters
+### Maddox (Ally)
+### 
 ## Campaign Mechanics

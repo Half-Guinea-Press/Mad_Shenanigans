@@ -7,4 +7,5 @@ It is a place to hang things that need to be worked on, researched, refined, and
 
 ## Quick Links:
 - [[DM Campaign Codex]]
+- [[Player Campaign Codex]]
 - https://help.obsidian.md/Home
