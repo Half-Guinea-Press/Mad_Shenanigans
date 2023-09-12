@@ -23,8 +23,12 @@
             "id": "16103267c254235d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "research/IOC vs FOC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -40,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/2309 37.md",
+            "file": "research/IOC vs FOC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/2309 37.md",
+            "file": "research/IOC vs FOC.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/2309 37.md"
+            "file": "research/IOC vs FOC.md"
           }
         }
       }
@@ -152,11 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5221a8a94e397f",
+  "active": "16103267c254235d",
   "lastOpenFiles": [
+    "tasks/Research Tasks.md",
+    "A starting point.md",
     "TTRPG/Campaign/DM Campaign Codex.md",
     "Daily_Notes/2309 37.md",
-    "A starting point.md",
     "Notes from KARTAS podcast.md",
     "Daily_Notes/230907.md",
     "Daily_Notes/2309 36.md",
@@ -180,7 +185,6 @@
     "Daily_Notes/Old_Daily_Notes/230821 Mo.md",
     "mechanics/SRD5e/Legal Information.md",
     "Daily_Notes/Old_Daily_Notes/230815 Tu.md",
-    "Daily_Notes/Old_Daily_Notes/230811 Fr.md",
     "locations",
     "mechanics/SRD5e",
     "Daily_Notes/Old_Daily_Notes",
