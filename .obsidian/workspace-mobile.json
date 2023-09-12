@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/IOC vs FOC.md",
+                "file": "Daily_Notes/2309 37.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "research/IOC vs FOC.md",
+            "file": "Daily_Notes/2309 37.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "research/IOC vs FOC.md",
+            "file": "Daily_Notes/2309 37.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "research/IOC vs FOC.md"
+            "file": "Daily_Notes/2309 37.md"
           }
         }
       }
