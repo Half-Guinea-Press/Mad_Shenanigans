@@ -32,8 +32,6 @@
 - [ ] #W36 https://www.drivethrurpg.com/m/product/448975
 - [ ] #W36 Testing and evaluation script format #R 
 - [ ] #W35 Setup family discord server
-- [ ] #W35 Setup family discord server
-- [ ] #W35 Find out if discord is accessible at work
 - [ ] #W35 Find out if discord is accessible at work
 - [ ] #W35 #G signature character item as a leveling item
 - [ ] #W35 #G passive skills
