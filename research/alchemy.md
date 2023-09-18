@@ -1,3 +1,4 @@
+#R 
 # Alchemical Symbols
 - Character (decimal)	Decimal	Character (hex)	Hex	Name
 - 🜀	128768	🜀	1F700	ALCHEMICAL SYMBOL FOR QUINTESSENCE

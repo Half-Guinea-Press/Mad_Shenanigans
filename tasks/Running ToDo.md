@@ -31,7 +31,7 @@
 - [ ] 2023-08-18 Post it dry erase board
 - [ ] 2023-08-18 Grammar girl book to work 
 - [ ] 2023-08-16 student loan mad login
-- [ ] 2023-08-14 https://acqnotes.com/acqnote/acquisitions/systems-engineering-plan
+- [x] 2023-08-14 https://acqnotes.com/acqnote/acquisitions/systems-engineering-plan [[SEP]]
 
 # Done
 - [x] 2023-09-07 #R all rolled up website

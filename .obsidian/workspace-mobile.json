@@ -8,43 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4382c5bbdaf46684",
+            "id": "6335f3ef260f023a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note_Template.md",
+                "file": "research/alchemy.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "16103267c254235d",
+            "id": "c407c4d48ccae43e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/2309 37.md",
-                "mode": "source",
+                "file": "TTRPG/mechanics/homebrew/Puca.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "5d5221a8a94e397f",
+            "id": "153fe542e342555e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/2309 37.md",
+                "file": "Daily_Notes/2309 38.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/2309 37.md",
+            "file": "Daily_Notes/2309 38.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/2309 37.md",
+            "file": "Daily_Notes/2309 38.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/2309 37.md"
+            "file": "Daily_Notes/2309 38.md"
           }
         }
       }
@@ -156,18 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16103267c254235d",
+  "active": "153fe542e342555e",
   "lastOpenFiles": [
+    "Daily_Notes/2309 37.md",
+    "Daily_Notes/2309 38.md",
+    "research/language tree.md",
+    "research/alchemy.md",
+    "SEP.md",
+    "Templates/Daily_Note_Template.md",
+    "research/Planegea.md",
+    "TTRPG/mechanics/homebrew/Puca.md",
     "tasks/Research Tasks.md",
     "A starting point.md",
     "TTRPG/Campaign/DM Campaign Codex.md",
-    "Daily_Notes/2309 37.md",
     "Notes from KARTAS podcast.md",
     "Daily_Notes/230907.md",
     "Daily_Notes/2309 36.md",
     "Player Campaign Codex.md",
-    "Untitled.md",
-    "Templates/Daily_Note_Template.md",
     "Daily_Notes/230908.md",
     "Daily_Notes/230906.md",
     "Daily_Notes/230905.md",
@@ -175,16 +180,11 @@
     "Daily_Notes/230830.md",
     "Magic System.md",
     "Daily_Notes/230825 Fr.md",
-    "research/alchemy.md",
     "Daily_Notes/Old_Daily_Notes/230814 Mo.md",
     "Fabula ultima,md",
     "Campaign/DM Campaign Codex.md",
     "mechanics/SRD5e/dnd5esrdTOC.md",
     "mechanics/dnd5esrdmain.md",
-    "Daily_Notes/Old_Daily_Notes/230822 Tu.md",
-    "Daily_Notes/Old_Daily_Notes/230821 Mo.md",
-    "mechanics/SRD5e/Legal Information.md",
-    "Daily_Notes/Old_Daily_Notes/230815 Tu.md",
     "locations",
     "mechanics/SRD5e",
     "Daily_Notes/Old_Daily_Notes",
