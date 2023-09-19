@@ -1,65 +1,63 @@
 #ToDo
 # Running Todo List
-- [ ] 2023-09-07 Edfinancial login information for Elizabeth
-- [ ] 2023-09-07 #G Develop mtsen location
-- [ ] 2023-09-07 #R planegea
-- [ ] 2023-09-07 #R how to account for Labor Day on hours
-- [ ] 2023-09-07 #R game and comic cons local to here or day travel distance
-- [ ] 2023-09-07 #R chapbook
-- [ ] 2023-09-06 https://www.drivethrurpg.com/m/product/448975
-- [ ] 2023-09-05 Testing and evaluation script format #R 
-- [ ] 2023-09-01 Setup family discord server
-- [ ] 2023-09-01 Setup family discord server
-- [ ] 2023-09-01 Find out if discord is accessible at work
-- [ ] 2023-09-01 Find out if discord is accessible at work
-- [ ] 2023-08-31 #G signature character item as a leveling item
-- [ ] 2023-08-31 #G passive skills
-- [ ] 2023-08-29 #G [[stealth checks give amount of time before problems start or potential complications later]]
-- [ ] 2023-08-28 #R Fitness for adventurers by TikTok story goddess
-- [ ] 2023-08-28 #I build self diag desktop and use daily notes as input method
-- [ ] 2023-08-28 #I Idea one pager for CIMT projects
-- [ ] 2023-08-28 #Autism #R disregulation
-- [ ] 2023-08-25 Uhaul
-- [ ] 2023-08-25 Extra space 10251643 door code
-- [ ] 2023-08-22 Free league ttrpg company 
-- [ ] 2023-08-22 #R QR codes for game cards
-- [ ] 2023-08-22 #R How to use legal benefit, call the legal people directly
-- [ ] 2023-08-22 #R How to automate consolidation of daily notes into a rolling file?
-- [ ] 2023-08-22 #G Game idea : shock card
-- [ ] 2023-08-21 When renn fair
-- [ ] 2023-08-18 Wrist watch 
-- [ ] 2023-08-18 Post it dry erase board
-- [ ] 2023-08-18 Grammar girl book to work 
-- [ ] 2023-08-16 student loan mad login
-- [x] 2023-08-14 https://acqnotes.com/acqnote/acquisitions/systems-engineering-plan [[SEP]]
+- [ ] #W37 #R redcap
+- [ ] #W37 #R trussel and gout novel series
+- [ ] #W37 #R whisper ai api
+- [ ] #W37 #R https://www.tiktok.com/t/ZT8jRxvfd/
+- [ ] #W37 #R gpu for coding
+- [ ] #W37 #R paper like eink
+- [ ] #W37 #R ElasticStack (ELK)
+- [ ] #W37 #R Prometheus monitoring software
+- [ ] #W37 #R Go coding language
+- [ ] #W37 #R coding languages for GPU: CUDA, OpenCL, HIP, SYCL https://saturncloud.io/blog/what-are-the-best-programming-languages-for-gpu/#:~:text=In%20conclusion%2C%20there%20are%20several,depends%20on%20your%20specific%20needs.
+- [ ] #W37 #R speech-to-text https://www.assemblyai.com/blog/the-top-free-speech-to-text-apis-and-open-source-engines/
+- [ ] #W37 #R DM3K https://github.com/efuller-gov/dm3k/tree/main
+- [ ] #W37 #R GOLANG https://go.dev/
+- [ ] #W37 #R AWS
+- [ ] #W37 #R AZURE
+- [ ] #W37 #R https://restfulapi.net/
+- [ ] #W37 #R https://apisyouwonthate.com/
+- [ ] #W37 #R eigengrau’s generator https://eigengrausgenerator.com/?seed=darkreddarkvioletflyingfox
+- [ ] #W37 #R selenium ui testing
+- [ ] #W37 #R sankey diagram
+- [ ] #W37 #R alluvial diagram
+- [ ] #W37 #R Sphynx Stationary 
+- [ ] #W37 #G resource tracking with usage die that decreases in size with “fails”
+- [ ] #W36 Edfinancial login information for Elizabeth
+- [ ] #W36 #G Develop mtsen location
+- [ ] #W36 #R planegea
+- [ ] #W36 #R how to account for Labor Day on hours
+- [ ] #W36 #R game and comic cons local to here or day travel distance
+- [ ] #W36 #R chapbook
+- [ ] #W36 https://www.drivethrurpg.com/m/product/448975
+- [ ] #W36 Testing and evaluation script format #R 
+- [ ] #W35 Setup family discord server
+- [ ] #W35 Find out if discord is accessible at work
+- [ ] #W35 #G signature character item as a leveling item
+- [ ] #W35 #G passive skills
+- [ ] #W35 #G [[stealth checks give amount of time before problems start or potential complications later]]
+- [ ] #W35 #R Fitness for adventurers by TikTok story goddess
+- [ ] #W35 #I build self diag desktop and use daily notes as input method
+- [ ] #W35 #I Idea one pager for CIMT projects
+- [ ] #W35 #Autism #R disregulation
+- [ ] #W34 Uhaul
+- [ ] #W34 Extra space 10251643 door code
+- [ ] #W34 Free league ttrpg company 
+- [ ] #W34 #R QR codes for game cards
+- [ ] #W34 #R How to use legal benefit, call the legal people directly
+- [ ] #W34 #R How to automate consolidation of daily notes into a rolling file?
+- [ ] #W34 #G Game idea : shock card
+- [ ] #W34 When renn fair
+- [ ] #W33 Wrist watch 
+- [ ] #W33 Post it dry erase board
+- [ ] #W33 Grammar girl book to work 
+- [ ] #W33 student loan mad login
 
 # Done
-- [x] 2023-09-07 #R all rolled up website
-- [x] 2023-09-07 #R pikeresque 
-- [x] 2023-08-29 #G [[leveling health potion]]
-- [x] 2023-08-28 H mart run for lunch box
-- [x] 2023-08-28 Clean car
-- [x] 2023-08-28 Bookmark AnyList at work
-- [x] 2023-08-28 #R Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
-- [x] 2023-08-28 #G How to use exhaustion rules better [[Exhaustion from 5e SRD]]
-- [x] 2023-08-28 #G Build a plan for dm bible for campaign [[DM Campaign Codex]]
-- [x] 2023-08-28  Birthday wish list New purse Necklace
-- [x] 2023-08-25 storage upgrade
-- [x] 2023-08-25 https://osf.io/4wru2
-- [x] 2023-08-25 [[Fabula ultima]]
-- [x] 2023-08-22 Price research storage upgrade
-- [x] 2023-08-22 Find [[local ttrpg store]] with game space 
-- [x] 2023-08-22 Dollar shave club
-- [x] 2023-08-22 Call healing paws about why they want karma back in 4107775887
-- [x] 2023-08-17 Pickup Mac book
-- [x] 2023-08-16 Mac for ally
-- [x] 2023-08-15 Child support abatement 
-- [x] 2023-08-14 Talk to bj
-- [x] 2023-08-14 No stupid question podcast site for citations 
-- [x] 2023-08-14 Child support call
-- [x] 2023-08-14 2 hole punch for desk
-- [x] 2023-08-11 Two holes punch
-- [x] 2023-08-11 Ask security about cover sheets and stickers
-- [x] 2023-08-10 Laptop for Ally
-- [x] 2023-08-09 Remove resume from job sites
-- [x] 2023-08-09 401k setup
+- [x] #W33 https://acqnotes.com/acqnote/acquisitions/systems-engineering-plan [[SEP]]
+- [x] #W32 #R all rolled up website
+- [x] #W32 #R pikeresque 
+- [x] #W32 #G [[leveling health potion]]
+- [x] #W32 #R Tom Bihn bags specifically Small Cafe Bag https://www.tombihn.com/collections/shoulder-bags/products/small-cafe-bag?variant=42852081041597
+- [x] #W32 #G How to use exhaustion rules better [[Exhaustion from 5e SRD]]
+- [x] #W32 #G Build a plan for dm bible for campaign [[DM Campaign Codex]]
