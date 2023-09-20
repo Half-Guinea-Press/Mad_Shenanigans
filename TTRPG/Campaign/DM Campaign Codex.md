@@ -6,5 +6,6 @@
 ## Campaign Setting
 ## Player Characters (PCs)
 ### Maddox (Ally)
-## Non-Player Characters (NPCs) [[npc_index]]
+## Non-Player Characters (NPCs) 
+![[npc_index]]
 ## Campaign Mechanics
