@@ -4,7 +4,7 @@
 ### Sessions
 #### Session 0
 ## Campaign Setting
-## Player Characters
+## Player Characters (PCs)
 ### Maddox (Ally)
-### 
+## Non-Player Characters (NPCs) [[npc_index]]
 ## Campaign Mechanics
