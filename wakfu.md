@@ -1,0 +1,37 @@
+- FECA'S SHIELD
+- OSAMODAS' WHIP
+- ENUTROF'S FINGERS
+- SRAM'S SHADOW
+- XELOR'S SANDGLASS
+- ECAFLIP'S COIN
+- ENIRIPSA'S HANDS
+- IOP'S HEART
+- CRA'S RANGE
+- SADIDA'S SHOE
+- SACRIER'S BLOOD
+- PANDAWA'S PINT
+- THE ROGUE RUSE
+- THE MASQUERAIDERS
+- OUGINAK'S RAGE
+- THE FOGGERNAUT'S STEAM
+- ELIOTROPE'S PORTAL
+- HUPPERMAGE'S RUNE
+
+- Cras are proud elf-like archers.
+- Ecaflips are the gamblers of the land.
+- Eliotropes move at the speed of lightning, disappear in the blink of an eye to reappear someplace else, away. 
+- Eniripsas are fairy-like healers.
+- Enutrofs are greedy treasure hunters.
+- Fecas are specialists in shields and protecting allies.
+- Foggernauts are inhabitants from the oceans.
+- Iops are fierce close-combat fighters.
+- Huppermages are masters of elemental runes to create powerful spells.
+- Masqueraiders are acrobatic combatants who wear clown-style masks.
+- Osamodas are a summoner class.
+- Ouginaks are dog-like warriors who track their prey mercilessly.
+- Pandawas are a race of pandas, typically fond of the bottle.
+- Rogues are a flamboyant bandits who use bombs and guns.
+- Sacriers are obsessed with pain.
+- Sadidas summon dolls and control the environment.
+- Srams are stealthy combatants.
+- Xelors enjoy playing with time.
