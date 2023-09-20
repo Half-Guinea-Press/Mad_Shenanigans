@@ -1,0 +1,2 @@
+#G #NPC
+# NPC Index
