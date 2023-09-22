@@ -1,2 +1,2 @@
 This is where the code is...
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Half-Guinea-Press/Mad_Shenanigans/main?urlpath=https%3A%2F%2Fgithub.com%2FHalf-Guinea-Press%2FMad_Shenanigans%2Ftree%2Fmain%2Fcode_binder/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Half-Guinea-Press/Mad_Shenanigans/main)
