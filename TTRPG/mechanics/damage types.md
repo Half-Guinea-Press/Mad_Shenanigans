@@ -64,8 +64,9 @@ health
 		suffocate
 	bleed
 		exsanguinate
-  	poison
-   	venom
+  	toxin	
+   		poison
+   		venom
 reality
 	displaced
 		space
