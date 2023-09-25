@@ -57,5 +57,5 @@ Increase your Dexterity score by 1, to a maximum of 20. When you fail a Dexterit
 Whenever you expend a use of your Small Target ability, you can move up to 5 feet as part of the same reaction. This movement doesn't provoke opportunity attacks.
 
 #### Puca v1.3 for D&D 5e
-#### Created by: u/NotTheDreadPirate
-#### Artist Credit: - Grosnez - Azan, the Archer
+#### Created by: u/NotTheDreadPirate https://www.reddit.com/user/NotTheDreadPirate/
+#### Artist Credit: - Grosnez - Azan, the Archer https://www.artstation.com/artwork/XaKa
