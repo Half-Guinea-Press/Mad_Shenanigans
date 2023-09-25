@@ -1,0 +1,102 @@
+force
+	blunt
+		kinetic
+			whip
+			concuss
+			impact
+		crush
+			pulverize
+		sonic
+			thunder
+			decibel
+	sharp
+		puncture
+			pierce
+			preforate
+			stab
+		cut
+			lacerate
+			incise
+	tear
+		rip
+	torque
+		twist
+burn
+	termal
+		heat
+			fire
+		cold
+			freeze
+	electrical
+	chemical
+		acid
+		base
+	radiation
+		Ultraviolet
+		alpha/beta/gamma waves
+molecular
+	transform
+	disintegrate
+	combustion
+	corrode
+		rust
+	dissolve
+entropy
+	age
+	life-stealing
+		death
+	energy-steal
+soul
+	divine
+		holy
+		unholy
+mental
+	psychic
+	stability
+	sanity
+	memory
+	pride
+health
+	infection
+		disease
+		viral
+		bacterial
+		fungal
+	asphyxiate
+		drown
+		suffocate
+	bleed
+		exsanguinate
+	neurological
+		brain
+		nerves
+	cancer
+reality
+	displaced
+		space
+		time
+		dimension
+Blinded
+Charmed
+Deafened
+Exhaustion
+Frightened
+Grappled
+Incapacitated
+Invisible
+Paralyzed
+Petrified
+Poisoned
+Prone
+Restrained
+Stunned
+Unconscious
+Slowed
+Nausea
+Fracture
+Confused
+Emberassed
+Startled
+Numb
+Intoxicated
+Halucinating
