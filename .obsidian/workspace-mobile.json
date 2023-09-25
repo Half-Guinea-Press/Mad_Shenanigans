@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/2309 38.md",
+                "file": "Daily_Notes/2309 39.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/2309 38.md",
+            "file": "Daily_Notes/2309 39.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/2309 38.md",
+            "file": "Daily_Notes/2309 39.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/2309 38.md"
+            "file": "Daily_Notes/2309 39.md"
           }
         }
       }
@@ -158,8 +158,9 @@
   },
   "active": "153fe542e342555e",
   "lastOpenFiles": [
-    "Daily_Notes/2309 37.md",
     "Daily_Notes/2309 38.md",
+    "Daily_Notes/2309 39.md",
+    "Daily_Notes/2309 37.md",
     "research/language tree.md",
     "research/alchemy.md",
     "SEP.md",
@@ -184,7 +185,6 @@
     "Fabula ultima,md",
     "Campaign/DM Campaign Codex.md",
     "mechanics/SRD5e/dnd5esrdTOC.md",
-    "mechanics/dnd5esrdmain.md",
     "locations",
     "mechanics/SRD5e",
     "Daily_Notes/Old_Daily_Notes",
