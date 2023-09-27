@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/2309 39.md",
+                "file": "local ttrpg store.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily_Notes/2309 39.md",
+            "file": "local ttrpg store.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily_Notes/2309 39.md",
+            "file": "local ttrpg store.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily_Notes/2309 39.md"
+            "file": "local ttrpg store.md"
           }
         }
       }
@@ -158,8 +158,15 @@
   },
   "active": "153fe542e342555e",
   "lastOpenFiles": [
-    "Daily_Notes/2309 38.md",
     "Daily_Notes/2309 39.md",
+    "blah.md",
+    "blah2.md",
+    "v_dnd_club/bard_srd.md",
+    "v_dnd_club/puca.md",
+    "v_dnd_club/valda bard spells.md",
+    "v_dnd_club/bard spells.md",
+    "v_dnd_club",
+    "Daily_Notes/2309 38.md",
     "Daily_Notes/2309 37.md",
     "research/language tree.md",
     "research/alchemy.md",
@@ -178,13 +185,7 @@
     "Daily_Notes/230906.md",
     "Daily_Notes/230905.md",
     "Daily_Notes/230903 Su.md",
-    "Daily_Notes/230830.md",
-    "Magic System.md",
-    "Daily_Notes/230825 Fr.md",
-    "Daily_Notes/Old_Daily_Notes/230814 Mo.md",
     "Fabula ultima,md",
-    "Campaign/DM Campaign Codex.md",
-    "mechanics/SRD5e/dnd5esrdTOC.md",
     "locations",
     "mechanics/SRD5e",
     "Daily_Notes/Old_Daily_Notes",
@@ -193,7 +194,6 @@
     "sessions",
     "mechanics",
     "NomadBackground",
-    "Sundered_Night_Errant/Canvas.canvas",
-    "Sundered_Night_Errant/sessions"
+    "Sundered_Night_Errant/Canvas.canvas"
   ]
 }
