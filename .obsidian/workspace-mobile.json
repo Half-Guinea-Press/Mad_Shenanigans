@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "local ttrpg store.md",
+                "file": "Devops strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "local ttrpg store.md",
+            "file": "Devops strategy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "local ttrpg store.md",
+            "file": "Devops strategy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "local ttrpg store.md"
+            "file": "Devops strategy.md"
           }
         }
       }
@@ -159,6 +159,7 @@
   "active": "153fe542e342555e",
   "lastOpenFiles": [
     "Daily_Notes/2309 39.md",
+    "Devops strategy.md",
     "blah.md",
     "blah2.md",
     "v_dnd_club/bard_srd.md",
@@ -184,7 +185,6 @@
     "Daily_Notes/230908.md",
     "Daily_Notes/230906.md",
     "Daily_Notes/230905.md",
-    "Daily_Notes/230903 Su.md",
     "Fabula ultima,md",
     "locations",
     "mechanics/SRD5e",
