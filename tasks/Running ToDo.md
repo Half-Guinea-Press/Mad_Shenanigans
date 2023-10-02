@@ -1,5 +1,13 @@
 #ToDo
 # Running Todo List
+- [ ] #W38 #R #diy half door
+- [ ] #W38 Fix couch
+- [ ] #W38 #R svelte code
+- [ ] #W38 #W Latibulate
+- [ ] #W38 Techno blade Hannibal Achilles 
+- [ ] #W38 #W Kirana
+- [ ] #W38 #G #R Conversational AI for NPC conversations
+- [ ] #W38 #R inworld.ai
 - [ ] #W37 #R redcap
 - [ ] #W37 #R trussel and gout novel series
 - [ ] #W37 #R whisper ai api
@@ -51,9 +59,9 @@
 - [ ] #W33 Wrist watch 
 - [ ] #W33 Post it dry erase board
 - [ ] #W33 Grammar girl book to work 
-- [ ] #W33 student loan mad login
 
 # Done
+- [X] #W33 student loan mad login
 - [x] #W33 https://acqnotes.com/acqnote/acquisitions/systems-engineering-plan [[SEP]]
 - [x] #W32 #R all rolled up website
 - [x] #W32 #R pikeresque 
