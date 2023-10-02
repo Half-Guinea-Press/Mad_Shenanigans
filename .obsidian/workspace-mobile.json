@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "v_dnd_club/valda bard spells.md",
+                "file": "Daily_Notes/2310 40.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "v_dnd_club/valda bard spells.md",
+            "file": "Daily_Notes/2310 40.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "v_dnd_club/valda bard spells.md",
+            "file": "Daily_Notes/2310 40.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "v_dnd_club/valda bard spells.md"
+            "file": "Daily_Notes/2310 40.md"
           }
         }
       }
@@ -158,6 +158,8 @@
   },
   "active": "153fe542e342555e",
   "lastOpenFiles": [
+    "v_dnd_club/valda bard spells.md",
+    "Daily_Notes/2310 40.md",
     "Daily_Notes/2310 39.md",
     "Devops strategy.md",
     "Daily_Notes/2309 39.md",
@@ -165,7 +167,6 @@
     "blah2.md",
     "v_dnd_club/bard_srd.md",
     "v_dnd_club/puca.md",
-    "v_dnd_club/valda bard spells.md",
     "v_dnd_club/bard spells.md",
     "v_dnd_club",
     "Daily_Notes/2309 38.md",
@@ -184,7 +185,6 @@
     "Daily_Notes/2309 36.md",
     "Player Campaign Codex.md",
     "Daily_Notes/230908.md",
-    "Daily_Notes/230906.md",
     "Fabula ultima,md",
     "locations",
     "mechanics/SRD5e",
