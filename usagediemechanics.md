@@ -12,7 +12,7 @@ d20 > d12 > d10 > d8 > d6 > d4
 
 When you roll a 1-2 on a d4 the item is expended and the character has no more of it left.
 
-set "explode depth" to 50
+`set "explode depth" to 50
 set "maximum function depth" to 10
 
 function: usagedie D:d keep on TN:n {
@@ -23,3 +23,9 @@ function: usagedie D:d keep on TN:n {
   result: 1 + [explode D>=TN] + [usagedie d(SIZE-2) keep on TN]
  }
 }
+
+output [lowest of [usagedie d4 keep on 3] and 50] named "d4"
+output [lowest of [usagedie d6 keep on 3] and 50] named "d6"
+output [lowest of [usagedie d8 keep on 3] and 50] named "d8"
+output [lowest of [usagedie d10 keep on 3] and 50] named "d10"
+output [lowest of [usagedie d12 keep on 3] and 50] named "d12"`
