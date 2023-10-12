@@ -30,4 +30,4 @@ output [lowest of [usagedie d6 keep on 3] and 50] named "d6"
 output [lowest of [usagedie d8 keep on 3] and 50] named "d8"
 output [lowest of [usagedie d10 keep on 3] and 50] named "d10"
 output [lowest of [usagedie d12 keep on 3] and 50] named "d12"
-<\code>
+</code>
