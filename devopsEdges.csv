@@ -1,0 +1,231 @@
+Source,Target,Type
+agile,kanban,Undirected
+agile,scrum,Undirected
+analysis,technical debt review,Undirected
+architecture,api,Undirected
+architecture,containerization,Undirected
+architecture,dependencies,Undirected
+architecture,technology stack,Undirected
+build automation,artifact creation,Undirected
+build automation,merge frequency,Undirected
+build automation,trigger automation,Undirected
+capabilities requirement (cr),architecture review board (arb),Undirected
+cd component phase,code review,Undirected
+cd component phase,static code analysis,Undirected
+cd component phase,unit testing,Undirected
+cd pipeline,cd component phase,Undirected
+cd pipeline,cd production phase,Undirected
+cd pipeline,cd subsystem phase,Undirected
+cd pipeline,cd system phase,Undirected
+cd subsystem phase,subsystem functional testing,Undirected
+cd subsystem phase,subsystem performance testing,Undirected
+cd subsystem phase,subsystem security testing,Undirected
+cd system phase,system integration testing,Undirected
+cd system phase,system performace testing,Undirected
+cd system phase,system security testing,Undirected
+ceremonies,sprint retrospective,Undirected
+ceremonies,sprint review,Undirected
+ceremonies,sprint standup,Undirected
+ci test automation,merge triggered testing,Undirected
+container,container configuration management,Undirected
+container,container image orchestration,Undirected
+container,creation of container images,Undirected
+container,deployment of container images,Undirected
+containerization,container type,Undirected
+containerization,containerization requirements,Undirected
+continuous delivery,cd pipline,Undirected
+continuous delivery,software environments,Undirected
+continuous delivery,successful ci testing triggered delivery,Undirected
+continuous integration,build automation,Undirected
+continuous integration,ci test automation,Undirected
+continuous integration,source code,Undirected
+dependencies,code dependencies,Undirected
+dependencies,dataflow,Undirected
+dependencies,dependent systems,Undirected
+design,architecture,Undirected
+functional testing,ad-hoc testing,Undirected
+functional testing,api testing,Undirected
+functional testing,chaos testing,Undirected
+functional testing,component testing,Undirected
+functional testing,database testing,Undirected
+functional testing,installation testing,Undirected
+functional testing,integration testing,Undirected
+functional testing,interface testing,Undirected
+functional testing,recovery testing,Undirected
+functional testing,regression testing,Undirected
+functional testing,static testing,Undirected
+functional testing,system testing,Undirected
+functional testing,unit testing,Undirected
+functional testing,usability testing,Undirected
+functional testing,user acceptance testing,Undirected
+functional testing,user interface testing,Undirected
+grey box testing,black box testing,Undirected
+grey box testing,white box testing,Undirected
+integration testing,big-bang testing,Undirected
+integration testing,bottom-up testing,Undirected
+integration testing,mixed integration testing,Undirected
+integration testing,top-down testing,Undirected
+interview metadata,interview date,Undirected
+interview metadata,interviewee,Undirected
+interview metadata,interviewer,Undirected
+interview metadata,questionaire receipt date,Undirected
+interview metadata,questionaire return date,Undirected
+interview sections,production environment,Undirected
+interview sections,project management,Undirected
+interview sections,software development,Undirected
+interviewee,interviewee title/position,Undirected
+kanban,borads,Undirected
+kanban,wip limits,Undirected
+merge testing,merge testing automation,Undirected
+merge triggered testing,unit testing,Undirected
+metadata,interview metadata,Undirected
+metadata,system metadata,Undirected
+metadata,system references,Undirected
+non-functional testing,availability testing,Undirected
+non-functional testing,backwards compatibility testing,Undirected
+non-functional testing,compatibility testing,Undirected
+non-functional testing,compliance testing,Undirected
+non-functional testing,configuration testing,Undirected
+non-functional testing,failover testing,Undirected
+non-functional testing,maintainability testing,Undirected
+non-functional testing,performance testing,Undirected
+non-functional testing,portability testing,Undirected
+non-functional testing,recovery testing,Undirected
+non-functional testing,reliability testing,Undirected
+non-functional testing,resilience testing,Undirected
+non-functional testing,security testing,Undirected
+non-functional testing,usability testing,Undirected
+orphan,merge automation,Undirected
+orphan,commit merge frequency,Undirected
+orphan,automated integration testing,Undirected
+orphan,application configuration,Undirected
+orphan,automated,Undirected
+orphan,automated build tools,Undirected
+orphan,automatic scaling,Undirected
+orphan,contingency plan exectution,Undirected
+orphan,continuous staging on sucessful ci,Undirected
+orphan,continuous system health monitoring,Undirected
+orphan,deployment,Undirected
+orphan,deployment release frequency,Undirected
+orphan,development automation,Undirected
+orphan,infrastructure as code,Undirected
+orphan,integration and build automation,Undirected
+orphan,logging,Undirected
+orphan,packaging,Undirected
+orphan,peer review,Undirected
+orphan,provisioning,Undirected
+orphan,quality control,Undirected
+orphan,roll back strategy,Undirected
+orphan,ste/rmf and compiance with security controls,Undirected
+orphan,ticketing,Undirected
+orphan,tools,Undirected
+orphan,tracking,Undirected
+orphan,version tracking of artifacts,Undirected
+orphan,virtualizations,Undirected
+orphan,visualizations,Undirected
+orphan,work requirement mapping,Undirected
+orphan,code,Undirected
+orphan,build automation,Undirected
+orphan,test,Undirected
+orphan,release,Undirected
+orphan,deploy,Undirected
+orphan,project maintenance,Undirected
+orphan,project monitoring,Undirected
+orphan,user feedback,Undirected
+performance testing,endurance testing,Undirected
+performance testing,load testing,Undirected
+performance testing,scalability testing,Undirected
+performance testing,soak testing,Undirected
+performance testing,stability testing,Undirected
+performance testing,stress testing,Undirected
+performance testing,volume testing,Undirected
+plan,analysis,Undirected
+plan,design,Undirected
+plan,requirement gathering,Undirected
+product devops inteview,interview sections,Undirected
+product devops inteview,metadata,Undirected
+product funding,capabilities requirement (cr),Undirected
+product funding,requirement product mapping (rpm),Undirected
+product funding,unfunded request (ufr),Undirected
+product stakeholders,product owner,Undirected
+product stakeholders,product technical lead,Undirected
+product stakeholders,source organization,Undirected
+product suite,fucntional bin,Undirected
+production environment,new feature request,Undirected
+production environment,project maintenance,Undirected
+production environment,project monitoring,Undirected
+production environment,user feedback,Undirected
+project management,agile,Undirected
+recovery testing,disaster recovery testing,Undirected
+requirement product mapping (rpm),architecture review board (arb),Undirected
+roles,development team members,Undirected
+roles,product owner,Undirected
+roles,scrum master,Undirected
+scrum,backlog,Undirected
+scrum,ceremonies,Undirected
+scrum,roles,Undirected
+scrum,sprints,Undirected
+security testing,penetration testing,Undirected
+security testing,rmf testing,Undirected
+security testing,ste testing,Undirected
+software development,build,Undirected
+software development,code,Undirected
+software development,continuous delivery,Undirected
+software development,continuous deployment,Undirected
+software development,continuous integration,Undirected
+software development,continuous monitoring,Undirected
+software development,deploy,Undirected
+software development,plan,Undirected
+software development,release,Undirected
+software development,test,Undirected
+software environments,development environment,Undirected
+software environments,production environment,Undirected
+software environments,staging environment,Undirected
+software environments,testing environmnet,Undirected
+source code,source code control,Undirected
+source code,source code version control,Undirected
+source code,static code analysis,Undirected
+sprints,sprint length,Undirected
+sprints,sprint planning,Undirected
+system metadata,mission platform reliability score,Undirected
+system metadata,product funding,Undirected
+system metadata,product stakeholders,Undirected
+system metadata,product suite,Undirected
+system metadata,system name,Undirected
+system reference,api documentation,Undirected
+system reference,application integration guide,Undirected
+system reference,coding standards,Undirected
+system reference,configuration management plan,Undirected
+system reference,conop,Undirected
+system reference,dataflow requirement management (drm) document,Undirected
+system reference,interface control document (icd),Undirected
+system reference,productads,Undirected
+system reference,software development document,Undirected
+system reference,ssp,Undirected
+system reference,system requirement document,Undirected
+system testing,black box testing,Undirected
+system testing,end to end testing,Undirected
+system testing,grey box testing,Undirected
+system testing,happy path testing,Undirected
+system testing,monkey testing,Undirected
+system testing,sanity testing,Undirected
+system testing,smoke testing,Undirected
+system testing,white box testing,Undirected
+test,automated testing,Undirected
+test,ci testing,Undirected
+test,functional testing,Undirected
+test,manual exploratory testing,Undirected
+test,merge testing,Undirected
+test,non-functional testing,Undirected
+test,rest results logged,Undirected
+test,testing on deployment to new environment,Undirected
+unit testing,black box testing,Undirected
+unit testing,gorilla testing,Undirected
+unit testing,grey box testing,Undirected
+unit testing,white box testing,Undirected
+usability testing,accessibility testing,Undirected
+usability testing,cross browser testing,Undirected
+usability testing,exploratory testing,Undirected
+user acceptance testing,alpha testing,Undirected
+user acceptance testing,beta testing,Undirected
+user acceptance testing,oat testing,Undirected

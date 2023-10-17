@@ -1,0 +1,213 @@
+Id,Type
+accessibility testing,unk
+ad-hoc testing,unk
+agile,unk
+alpha testing,unk
+analysis,unk
+api,unk
+api documentation,unk
+api testing,unk
+application configuration,unk
+application integration guide,unk
+architecture,unk
+architecture review board (arb),unk
+artifact creation,unk
+automated,unk
+automated build tools,unk
+automated integration testing,unk
+automated testing,unk
+automatic scaling,unk
+availability testing,unk
+backlog,unk
+backwards compatibility testing,unk
+beta testing,unk
+big-bang testing,unk
+black box testing,unk
+boards,unk
+bottom-up testing,unk
+build,unk
+build automation,unk
+capabilities requirement (cr),unk
+cd component phase,unk
+cd pipeline,unk
+cd production phase,unk
+cd subsystem phase,unk
+cd system phase,unk
+ceremonies,unk
+chaos testing,unk
+ci test automation,unk
+ci testing,unk
+code,unk
+code dependencies,unk
+code review,unk
+coding standards,unk
+commit merge frequency,unk
+compatibility testing,unk
+compliance testing,unk
+component testing,unk
+configuration management plan,unk
+configuration testing,unk
+conop,unk
+container,unk
+container configuration management,unk
+container image orchestration,unk
+container type,unk
+containerization,unk
+containerization requirements,unk
+contingency plan exectution,unk
+continuous delivery,unk
+continuous deployment,unk
+continuous integration,unk
+continuous monitoring,unk
+continuous staging on sucessful ci,unk
+continuous system health monitoring,unk
+creation of container images,unk
+cross browser testing,unk
+database testing,unk
+dataflow,unk
+dataflow requirement management (drm) document,unk
+dependencies,unk
+dependent systems,unk
+deploy,unk
+deployment,unk
+deployment of container images,unk
+deployment release frequency,unk
+design,unk
+development automation,unk
+development environment,unk
+development team members,unk
+disaster recovery testing,unk
+end to end testing,unk
+endurance testing,unk
+exploratory testing,unk
+failover testing,unk
+functional bin,unk
+functional testing,unk
+gorilla testing,unk
+grey box testing,unk
+happy path testing,unk
+infrastructure as code,unk
+installation testing,unk
+integration and build automation,unk
+integration testing,unk
+interface control document (icd),unk
+interface testing,unk
+interview date,unk
+interview metadata,unk
+interview sections,unk
+interviewee,unk
+interviewee title/position,unk
+interviewer,unk
+kanban,unk
+load testing,unk
+logging,unk
+maintainability testing,unk
+manual exploratory testing,unk
+merge automation,unk
+merge frequency,unk
+merge testing,unk
+merge testing automation,unk
+merge triggered testing,unk
+metadata,unk
+mission platform reliability score,unk
+mixed integration testing,unk
+monkey testing,unk
+new feature request,unk
+non-functional testing,unk
+oat testing,unk
+orphan,unk
+packaging,unk
+peer review,unk
+penetration testing,unk
+performance testing,unk
+plan,unk
+portability testing,unk
+product devops inteview,unk
+product funding,unk
+product owner,unk
+product stakeholders,unk
+product suite,unk
+product technical lead,unk
+productads,unk
+production environment,unk
+project maintenance,unk
+project management,unk
+project monitoring,unk
+provisioning,unk
+quality control,unk
+questionaire receipt date,unk
+questionaire return date,unk
+recovery testing,unk
+regression testing,unk
+release,unk
+reliability testing,unk
+requirement gathering,unk
+requirement product mapping (rpm),unk
+resilience testing,unk
+rest results logged,unk
+rmf testing,unk
+roles,unk
+roll back strategy,unk
+sanity testing,unk
+scalability testing,unk
+scrum,unk
+scrum master,unk
+security testing,unk
+smoke testing,unk
+soak testing,unk
+software development,unk
+software development document,unk
+software environments,unk
+source code,unk
+source code control,unk
+source code version control,unk
+source organization,unk
+sprint length,unk
+sprint planning,unk
+sprint retrospective,unk
+sprint review,unk
+sprint standup,unk
+sprints,unk
+ssp,unk
+stability testing,unk
+staging environment,unk
+static code analysis,unk
+static testing,unk
+ste testing,unk
+ste/rmf and compiance with security controls,unk
+stress testing,unk
+subsystem functional testing,unk
+subsystem performance testing,unk
+subsystem security testing,unk
+successful ci testing triggered delivery,unk
+system integration testing,unk
+system metadata,unk
+system name,unk
+system performace testing,unk
+system reference,unk
+system requirement document,unk
+system security testing,unk
+system testing,unk
+technical debt review,unk
+technology stack,unk
+test,unk
+testing environmnet,unk
+testing on deployment to new environment,unk
+ticketing,unk
+tools,unk
+top-down testing,unk
+tracking,unk
+trigger automation,unk
+unfunded request (ufr),unk
+unit testing,unk
+usability testing,unk
+user acceptance testing,unk
+user feedback,unk
+user interface testing,unk
+version tracking of artifacts,unk
+virtualizations,unk
+visualizations,unk
+volume testing,unk
+white box testing,unk
+wip limits,unk
+work requirement mapping,unk
