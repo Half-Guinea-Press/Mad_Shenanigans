@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V birthday party one shot.md",
+                "file": "Daily_Notes/2311 45.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "V birthday party one shot.md",
+            "file": "Daily_Notes/2311 45.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "V birthday party one shot.md",
+            "file": "Daily_Notes/2311 45.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "V birthday party one shot.md"
+            "file": "Daily_Notes/2311 45.md"
           }
         }
       }
@@ -158,6 +158,8 @@
   },
   "active": "153fe542e342555e",
   "lastOpenFiles": [
+    "research/alchemy.md",
+    "Daily_Notes/2311 45.md",
     "Daily_Notes/2310 43.md",
     "V birthday party one shot.md",
     "Daily_Notes/2310 42.md",
@@ -176,7 +178,6 @@
     "Daily_Notes/2309 38.md",
     "Daily_Notes/2309 37.md",
     "research/language tree.md",
-    "research/alchemy.md",
     "SEP.md",
     "Templates/Daily_Note_Template.md",
     "research/Planegea.md",
@@ -184,7 +185,6 @@
     "tasks/Research Tasks.md",
     "A starting point.md",
     "TTRPG/Campaign/DM Campaign Codex.md",
-    "Notes from KARTAS podcast.md",
     "Fabula ultima,md",
     "locations",
     "mechanics/SRD5e",
